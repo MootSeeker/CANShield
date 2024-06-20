@@ -257,6 +257,108 @@
 				)
 			)
 		)
+		(symbol "Connector:TestPoint_Small"
+			(pin_numbers hide)
+			(pin_names
+				(offset 0.762) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "TP"
+				(at 0 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "TestPoint_Small"
+				(at 0 2.032 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 5.08 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 5.08 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "test point"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "test point tp"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Pin* Test*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "TestPoint_Small_0_1"
+				(circle
+					(center 0 0)
+					(radius 0.508)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "TestPoint_Small_1_1"
+				(pin passive line
+					(at 0 0 90)
+					(length 0)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "Connector_Generic:Conn_02x19_Odd_Even"
 			(pin_names
 				(offset 1.016) hide)
@@ -2311,6 +2413,151 @@
 				)
 			)
 		)
+		(symbol "Jumper:Jumper_2_Open"
+			(pin_numbers hide)
+			(pin_names
+				(offset 0) hide)
+			(exclude_from_sim yes)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "JP"
+				(at 0 2.794 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Jumper_2_Open"
+				(at 0 -2.286 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Jumper, 2-pole, open"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "Jumper SPST"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Jumper* TestPoint*2Pads* TestPoint*Bridge*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Jumper_2_Open_0_0"
+				(circle
+					(center -2.032 0)
+					(radius 0.508)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 2.032 0)
+					(radius 0.508)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "Jumper_2_Open_0_1"
+				(arc
+					(start 1.524 1.27)
+					(mid 0 1.778)
+					(end -1.524 1.27)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "Jumper_2_Open_1_1"
+				(pin passive line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "B"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "PESD2CANFD27V:PESD2CANFD27V-TR"
 			(pin_names
 				(offset 0.254)
@@ -3502,18 +3749,6 @@
 		(uuid "0aeaf5c2-6e9b-4bfd-ac87-50ddfd8e5650")
 	)
 	(junction
-		(at 133.35 196.85)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0d4a2cd6-4a8f-440a-806b-7cf63122c0b2")
-	)
-	(junction
-		(at 120.65 194.31)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "12cae0ae-01b5-4af5-9ed7-cee3fbbc232a")
-	)
-	(junction
 		(at 149.86 196.85)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3524,6 +3759,24 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "357f1a5a-db74-4bcf-8a05-b2ee08ef5fec")
+	)
+	(junction
+		(at 53.34 236.22)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "415674f6-2fe0-4077-a3a2-f2ea05ebf6de")
+	)
+	(junction
+		(at 57.15 229.87)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "540b6ecc-0336-4f7e-9bf8-da33917889c6")
+	)
+	(junction
+		(at 53.34 242.57)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5457b7d8-e1b7-4805-b9b8-44d00beeefec")
 	)
 	(junction
 		(at 171.45 229.87)
@@ -3550,6 +3803,24 @@
 		(uuid "8f0af9df-24ca-4490-aaf1-3bf71224a805")
 	)
 	(junction
+		(at 53.34 232.41)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "927f7a93-3de6-40e0-80ff-481f005c87e9")
+	)
+	(junction
+		(at 125.73 229.87)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9bdc4721-42a4-479c-b6e0-3e89a6bbb38f")
+	)
+	(junction
+		(at 133.35 196.85)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a104cca2-8929-492d-a157-551ae311abfb")
+	)
+	(junction
 		(at 85.09 266.7)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3560,6 +3831,24 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b25a711a-94ea-4834-8bf5-bd3383b7dd4f")
+	)
+	(junction
+		(at 53.34 250.19)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b2b294d4-8a0e-45ec-ae51-44426add215e")
+	)
+	(junction
+		(at 88.9 196.85)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b9c1529a-ef8e-4de9-8b76-39606bad1e33")
+	)
+	(junction
+		(at 125.73 237.49)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bd6de376-e98a-4249-8969-9a06df88bd29")
 	)
 	(junction
 		(at 157.48 237.49)
@@ -3580,10 +3869,16 @@
 		(uuid "dd83f8aa-db84-4cd2-8382-c2548ee88ea9")
 	)
 	(junction
-		(at 88.9 196.85)
+		(at 114.3 246.38)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "e8d95262-9bcc-4442-90f1-044f54113248")
+		(uuid "f2580596-79fd-478f-ab7e-466a5449832b")
+	)
+	(junction
+		(at 120.65 194.31)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f942270d-b336-4933-9c99-56371459eb55")
 	)
 	(wire
 		(pts
@@ -3594,6 +3889,16 @@
 			(type default)
 		)
 		(uuid "0952418e-0bd9-4fe3-a693-5bcd747c2b76")
+	)
+	(wire
+		(pts
+			(xy 57.15 229.87) (xy 64.77 229.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0969b850-39a6-4e3d-8736-38ec4a004ee7")
 	)
 	(wire
 		(pts
@@ -3657,6 +3962,16 @@
 	)
 	(wire
 		(pts
+			(xy 81.28 194.31) (xy 87.63 194.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "13ed2f2f-95e3-4a5b-90f5-d6713941bef4")
+	)
+	(wire
+		(pts
 			(xy 85.09 266.7) (xy 88.9 266.7)
 		)
 		(stroke
@@ -3674,6 +3989,26 @@
 			(type default)
 		)
 		(uuid "189bb105-b71e-4cdc-91e8-cbdc39a0857f")
+	)
+	(wire
+		(pts
+			(xy 53.34 232.41) (xy 64.77 232.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "192de066-5426-4471-bac7-d9f443c05ac3")
+	)
+	(wire
+		(pts
+			(xy 53.34 236.22) (xy 64.77 236.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1b3bf787-af3e-42a7-a3dc-77c7edcf5c43")
 	)
 	(wire
 		(pts
@@ -3937,6 +4272,16 @@
 	)
 	(wire
 		(pts
+			(xy 53.34 242.57) (xy 64.77 242.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "440d3546-bd82-45d4-8f1f-764d09174a5a")
+	)
+	(wire
+		(pts
 			(xy 60.96 246.38) (xy 64.77 246.38)
 		)
 		(stroke
@@ -4045,6 +4390,16 @@
 		)
 		(uuid "54f2aba0-bb7f-4a6f-b31e-23eb0b97147b")
 	)
+	(wire
+		(pts
+			(xy 113.03 196.85) (xy 133.35 196.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "551dfec5-52a3-4c5d-9394-96534075529c")
+	)
 	(polyline
 		(pts
 			(xy 215.8895 284.9552) (xy 215.9 284.9552)
@@ -4077,7 +4432,7 @@
 	)
 	(wire
 		(pts
-			(xy 35.56 232.41) (xy 64.77 232.41)
+			(xy 35.56 232.41) (xy 53.34 232.41)
 		)
 		(stroke
 			(width 0)
@@ -4127,7 +4482,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 237.49) (xy 157.48 237.49)
+			(xy 121.92 237.49) (xy 125.73 237.49)
 		)
 		(stroke
 			(width 0)
@@ -4357,7 +4712,7 @@
 	)
 	(wire
 		(pts
-			(xy 35.56 236.22) (xy 64.77 236.22)
+			(xy 35.56 236.22) (xy 53.34 236.22)
 		)
 		(stroke
 			(width 0)
@@ -4434,16 +4789,6 @@
 			(type default)
 		)
 		(uuid "95f7adbe-8e65-40e7-831b-b9b50f64dc9e")
-	)
-	(wire
-		(pts
-			(xy 81.28 194.31) (xy 120.65 194.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "96863f48-56a3-4bcd-80b3-b75876fc6d2a")
 	)
 	(wire
 		(pts
@@ -4527,13 +4872,33 @@
 	)
 	(wire
 		(pts
-			(xy 35.56 250.19) (xy 64.77 250.19)
+			(xy 53.34 250.19) (xy 64.77 250.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a7a7b1cf-c536-4ff9-922c-224b67eb63c4")
+	)
+	(wire
+		(pts
+			(xy 35.56 250.19) (xy 53.34 250.19)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "a8c2c11d-3659-439e-811b-21b90c00384b")
+	)
+	(wire
+		(pts
+			(xy 97.79 194.31) (xy 120.65 194.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a9478be8-4761-4b49-83b2-3c791ce33ddb")
 	)
 	(wire
 		(pts
@@ -4557,7 +4922,7 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 229.87) (xy 137.16 229.87)
+			(xy 105.41 229.87) (xy 125.73 229.87)
 		)
 		(stroke
 			(width 0)
@@ -4707,7 +5072,7 @@
 	)
 	(wire
 		(pts
-			(xy 35.56 229.87) (xy 64.77 229.87)
+			(xy 35.56 229.87) (xy 57.15 229.87)
 		)
 		(stroke
 			(width 0)
@@ -4784,16 +5149,6 @@
 			(type default)
 		)
 		(uuid "c92deed8-bb94-4d28-90ef-9dd6085cc615")
-	)
-	(wire
-		(pts
-			(xy 88.9 196.85) (xy 133.35 196.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c9db223f-189c-4afa-b775-1a9c26aba3f6")
 	)
 	(wire
 		(pts
@@ -4944,6 +5299,16 @@
 			(type default)
 		)
 		(uuid "db8f474e-2e56-430c-8216-851178fda826")
+	)
+	(wire
+		(pts
+			(xy 125.73 229.87) (xy 137.16 229.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dbf3baa4-8b8b-45fd-b8d6-6d05a6d4198f")
 	)
 	(wire
 		(pts
@@ -5117,7 +5482,17 @@
 	)
 	(wire
 		(pts
-			(xy 35.56 242.57) (xy 64.77 242.57)
+			(xy 125.73 237.49) (xy 157.48 237.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f1adb676-8707-40e0-9012-f2ce98914b63")
+	)
+	(wire
+		(pts
+			(xy 35.56 242.57) (xy 53.34 242.57)
 		)
 		(stroke
 			(width 0)
@@ -5134,6 +5509,16 @@
 			(type default)
 		)
 		(uuid "f60c4904-d352-4bc1-994a-92514ed15956")
+	)
+	(wire
+		(pts
+			(xy 88.9 196.85) (xy 102.87 196.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f6d8ea87-9922-4333-a7b4-f653361e2516")
 	)
 	(wire
 		(pts
@@ -5248,6 +5633,38 @@
 		)
 		(uuid "1163a024-e73f-4456-959d-0a04687e7b82")
 	)
+	(text "PD4 <-"
+		(exclude_from_sim no)
+		(at 35.814 78.994 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "129d1270-9827-4d25-8395-29c1d7fdd7ef")
+	)
+	(text "-> PD1"
+		(exclude_from_sim no)
+		(at 102.616 71.374 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "18c1f1a0-faa2-435f-99e6-27c0fc8bffd3")
+	)
+	(text "The INH Pin is an open source pin\nThis pin is high in stand by and normal mode\nand is high ohmic in sleep mode"
+		(exclude_from_sim no)
+		(at 14.224 255.27 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 253 0 0 1)
+			)
+			(justify left)
+		)
+		(uuid "3493eef8-8391-4619-a022-3e2f6017d58e")
+	)
 	(text "STM32 Nucleo-64 Header\n"
 		(exclude_from_sim no)
 		(at 58.674 20.32 0)
@@ -5260,6 +5677,17 @@
 			)
 		)
 		(uuid "4553aa87-51c0-4204-9d52-680fd7d149dc")
+	)
+	(text "Nucleo board reference is: MB1360\nUsed mcu is STM32G0B1RET6\nShield connects to the 38pin morpho connecotrs \nShield does not connect to the Arduino Headers"
+		(exclude_from_sim no)
+		(at 21.59 30.48 0)
+		(effects
+			(font
+				(size 1.905 1.905)
+			)
+			(justify left)
+		)
+		(uuid "4a6a9f5a-25d8-4ac0-9d67-f6bc583ad3da")
 	)
 	(text "Place all decoupling caps \nas close as the supply pins\nas possible! "
 		(exclude_from_sim no)
@@ -5292,6 +5720,46 @@
 			(justify left)
 		)
 		(uuid "88db4d7f-d01b-456d-9551-a0d4644b424f")
+	)
+	(text "-> PD5"
+		(exclude_from_sim no)
+		(at 103.378 91.44 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "96c1e601-2639-4f84-a3c4-a99311889464")
+	)
+	(text "PD0 <-"
+		(exclude_from_sim no)
+		(at 35.814 71.628 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "b379906a-ef97-48ce-a2cf-f2af015dfda8")
+	)
+	(text "-> PD2"
+		(exclude_from_sim no)
+		(at 101.854 63.754 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "df302dfe-37e5-43b2-a94d-426e2581faf1")
+	)
+	(text "PD3 <-"
+		(exclude_from_sim no)
+		(at 35.814 73.914 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "fe561123-043f-4d64-97f3-2fb0f6e878e2")
 	)
 	(label "PB8"
 		(at 130.81 64.77 180)
@@ -5479,17 +5947,6 @@
 			(justify left bottom)
 		)
 		(uuid "26c3b9f8-9436-43ce-bfe0-62bcafd88da4")
-	)
-	(label "PD5"
-		(at 88.9 92.71 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "2907d1fa-03cd-4f1f-90d7-00263cccda71")
 	)
 	(label "PC3"
 		(at 50.8 107.95 180)
@@ -5910,7 +6367,7 @@
 		(uuid "9b645c23-49fb-44ab-a903-dfeb9f12cbe4")
 	)
 	(label "~{CAN0_ERR}"
-		(at 38.1 149.86 0)
+		(at 88.9 92.71 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5918,7 +6375,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "9ce96cb2-3b31-451c-8236-ca49973ea4e1")
+		(uuid "9c7e7129-4646-4263-9972-18e7bd3df941")
 	)
 	(label "PC6"
 		(at 168.91 64.77 0)
@@ -5985,17 +6442,6 @@
 			(justify left bottom)
 		)
 		(uuid "a5e8f152-09a8-45ae-850a-563b7f55675a")
-	)
-	(label "CAN0_INH"
-		(at 29.21 149.86 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "ac09f1c6-31f3-4d7c-ae7b-3295583d5b89")
 	)
 	(label "PC11"
 		(at 88.9 62.23 0)
@@ -6498,6 +6944,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint_Small")
+		(at 125.73 229.87 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "053c7c03-9163-4e3d-891e-bf5d5780870c")
+		(property "Reference" "TP7"
+			(at 123.952 228.346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint_Small"
+			(at 127 231.1399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 130.81 229.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 130.81 229.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 125.73 229.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3e1cc9ce-12f6-483a-a0c8-72c72c7fa8dc")
+		)
+		(instances
+			(project "CANShield"
+				(path "/b267ac6b-6338-40f7-a3df-596945dc6f78"
+					(reference "TP7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 147.32 247.65 0)
 		(unit 1)
@@ -6773,6 +7286,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint_Small")
+		(at 53.34 236.22 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3ed91d9d-e858-4532-b173-486f2213c5b4")
+		(property "Reference" "TP3"
+			(at 51.562 234.696 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint_Small"
+			(at 54.61 237.4899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 58.42 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 58.42 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 53.34 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "89fc156c-40a4-4c85-a862-a29d3fcee67a")
+		)
+		(instances
+			(project "CANShield"
+				(path "/b267ac6b-6338-40f7-a3df-596945dc6f78"
+					(reference "TP3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 120.65 209.55 0)
 		(unit 1)
@@ -6975,6 +7555,73 @@
 			(project "CANShield"
 				(path "/b267ac6b-6338-40f7-a3df-596945dc6f78"
 					(reference "L2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint_Small")
+		(at 53.34 250.19 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "4aea3fe1-403f-4ac0-86ea-e1a47e606255")
+		(property "Reference" "TP5"
+			(at 51.562 248.666 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint_Small"
+			(at 54.61 251.4599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 58.42 250.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 58.42 250.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 53.34 250.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "07ffda73-8a6a-4908-a59c-bb01a47ba7c6")
+		)
+		(instances
+			(project "CANShield"
+				(path "/b267ac6b-6338-40f7-a3df-596945dc6f78"
+					(reference "TP5")
 					(unit 1)
 				)
 			)
@@ -7509,6 +8156,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint_Small")
+		(at 114.3 246.38 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "8ed60404-4826-4bdc-b8eb-d19128617b3c")
+		(property "Reference" "TP8"
+			(at 112.522 244.856 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint_Small"
+			(at 115.57 247.6499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 119.38 246.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 119.38 246.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 114.3 246.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "fa3746d7-a2e5-4a72-b86b-80c4b16a3b1d")
+		)
+		(instances
+			(project "CANShield"
+				(path "/b267ac6b-6338-40f7-a3df-596945dc6f78"
+					(reference "TP8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:L_Ferrite")
 		(at 156.21 196.85 90)
 		(unit 1)
@@ -7571,6 +8285,73 @@
 			(project "CANShield"
 				(path "/b267ac6b-6338-40f7-a3df-596945dc6f78"
 					(reference "L3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint_Small")
+		(at 53.34 232.41 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "93f784c6-32c3-4844-ae33-184e85932eec")
+		(property "Reference" "TP2"
+			(at 51.562 230.886 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint_Small"
+			(at 54.61 233.6799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 58.42 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 58.42 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 53.34 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1c9ced6b-d99a-4ec3-9c6c-48ae16e93bb4")
+		)
+		(instances
+			(project "CANShield"
+				(path "/b267ac6b-6338-40f7-a3df-596945dc6f78"
+					(reference "TP2")
 					(unit 1)
 				)
 			)
@@ -8324,6 +9105,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Jumper:Jumper_2_Open")
+		(at 92.71 194.31 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "be03195d-90ea-49a7-92b4-6f49a53b3ba9")
+		(property "Reference" "JP1"
+			(at 92.71 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Jumper_2_Open"
+			(at 92.71 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 92.71 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 92.71 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Jumper, 2-pole, open"
+			(at 92.71 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6fce4058-a8b7-4f7e-8696-c1bd0fda08c2")
+		)
+		(pin "2"
+			(uuid "b4d34d31-4382-4102-81b2-1a7142b06fc7")
+		)
+		(instances
+			(project ""
+				(path "/b267ac6b-6338-40f7-a3df-596945dc6f78"
+					(reference "JP1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 25.4 214.63 0)
 		(unit 1)
@@ -8718,6 +9567,73 @@
 			(project "CANShield"
 				(path "/b267ac6b-6338-40f7-a3df-596945dc6f78"
 					(reference "C7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint_Small")
+		(at 57.15 229.87 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "da69bf64-b098-4945-a9fb-50f32883c179")
+		(property "Reference" "TP1"
+			(at 55.372 228.346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint_Small"
+			(at 58.42 231.1399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 62.23 229.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 62.23 229.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 57.15 229.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "bb9b9f6b-d846-4da5-a1cb-dbe46b4dccb1")
+		)
+		(instances
+			(project "CANShield"
+				(path "/b267ac6b-6338-40f7-a3df-596945dc6f78"
+					(reference "TP1")
 					(unit 1)
 				)
 			)
@@ -9245,6 +10161,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint_Small")
+		(at 53.34 242.57 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f392fd5b-4491-4ab4-8e37-83a6eb542e14")
+		(property "Reference" "TP4"
+			(at 51.562 241.046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint_Small"
+			(at 54.61 243.8399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 58.42 242.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 58.42 242.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 53.34 242.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "071f3220-06ed-4e3b-974f-93e045bc07e1")
+		)
+		(instances
+			(project "CANShield"
+				(path "/b267ac6b-6338-40f7-a3df-596945dc6f78"
+					(reference "TP4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 171.45 276.86 0)
 		(unit 1)
@@ -9305,6 +10288,140 @@
 			(project "CANShield"
 				(path "/b267ac6b-6338-40f7-a3df-596945dc6f78"
 					(reference "#PWR09")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Jumper:Jumper_2_Open")
+		(at 107.95 196.85 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f57eff7b-a57b-43ab-8ea8-b4e87c1c9797")
+		(property "Reference" "JP2"
+			(at 107.95 198.882 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Jumper_2_Open"
+			(at 107.95 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 107.95 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 107.95 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Jumper, 2-pole, open"
+			(at 107.95 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f13b1bb4-8e53-47d4-83d1-daac844ad632")
+		)
+		(pin "2"
+			(uuid "2a67e6f2-94a5-4d6f-8162-da90a288344b")
+		)
+		(instances
+			(project "CANShield"
+				(path "/b267ac6b-6338-40f7-a3df-596945dc6f78"
+					(reference "JP2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint_Small")
+		(at 125.73 237.49 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f725b1f2-421f-48f0-950d-d2c5f06120ac")
+		(property "Reference" "TP6"
+			(at 123.952 235.966 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint_Small"
+			(at 127 238.7599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 130.81 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 130.81 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 125.73 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2e68af3d-2989-4f8f-bc38-43c73272364c")
+		)
+		(instances
+			(project "CANShield"
+				(path "/b267ac6b-6338-40f7-a3df-596945dc6f78"
+					(reference "TP6")
 					(unit 1)
 				)
 			)
