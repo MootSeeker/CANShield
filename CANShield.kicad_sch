@@ -6168,6 +6168,12 @@
 		(uuid "deecf8a7-11ae-429b-8c60-1bb1dbe684a3")
 	)
 	(junction
+		(at 273.05 67.31)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "dfb4c1ec-482a-49ef-89b3-7faaef6d2ec4")
+	)
+	(junction
 		(at 307.34 199.39)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7007,7 +7013,7 @@
 	)
 	(wire
 		(pts
-			(xy 273.05 68.58) (xy 273.05 66.04)
+			(xy 273.05 68.58) (xy 273.05 67.31)
 		)
 		(stroke
 			(width 0)
@@ -8044,6 +8050,16 @@
 			(type default)
 		)
 		(uuid "8d3fda47-2b9d-45e9-afd1-e9a79219bcc5")
+	)
+	(wire
+		(pts
+			(xy 273.05 67.31) (xy 273.05 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8d4084e9-5b44-42dd-bb62-01d17b02f3d1")
 	)
 	(wire
 		(pts
@@ -10095,7 +10111,7 @@
 		)
 		(uuid "1667afe8-3e7f-471a-93fb-c18217a8b39c")
 	)
-	(label "CAN0_L"
+	(label "CAN0_N"
 		(at 118.11 229.87 180)
 		(fields_autoplaced yes)
 		(effects
@@ -11074,7 +11090,7 @@
 		)
 		(uuid "ebe22de3-f7b5-443e-9ee7-01e379736a71")
 	)
-	(label "CAN0_H"
+	(label "CAN0_P"
 		(at 118.11 237.49 180)
 		(fields_autoplaced yes)
 		(effects
@@ -11630,7 +11646,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "053c7c03-9163-4e3d-891e-bf5d5780870c")
-		(property "Reference" "TP107"
+		(property "Reference" "TP110"
 			(at 123.952 228.346 0)
 			(effects
 				(font
@@ -11682,7 +11698,7 @@
 		(instances
 			(project "CANShield"
 				(path "/b267ac6b-6338-40f7-a3df-596945dc6f78"
-					(reference "TP107")
+					(reference "TP110")
 					(unit 1)
 				)
 			)
@@ -11767,7 +11783,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0e05bed4-573b-45bc-a5f6-fca470052a04")
-		(property "Reference" "TP109"
+		(property "Reference" "TP115"
 			(at 282.702 44.196 0)
 			(effects
 				(font
@@ -11819,7 +11835,7 @@
 		(instances
 			(project "CANShield"
 				(path "/b267ac6b-6338-40f7-a3df-596945dc6f78"
-					(reference "TP109")
+					(reference "TP115")
 					(unit 1)
 				)
 			)
@@ -12527,7 +12543,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "21cc2a1a-5632-4ccd-8e17-7b4310eb5380")
-		(property "Reference" "TP110"
+		(property "Reference" "TP118"
 			(at 285.242 46.736 0)
 			(effects
 				(font
@@ -12579,7 +12595,7 @@
 		(instances
 			(project "CANShield"
 				(path "/b267ac6b-6338-40f7-a3df-596945dc6f78"
-					(reference "TP110")
+					(reference "TP118")
 					(unit 1)
 				)
 			)
@@ -12995,6 +13011,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint_Small")
+		(at 273.05 67.31 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "38967258-d050-4b22-bcdd-db28c9be79a4")
+		(property "Reference" "TP114"
+			(at 273.812 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint_Small"
+			(at 274.32 68.5799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+			(at 278.13 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 278.13 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 273.05 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "39fb2a82-ffeb-4029-9794-e3085ef3fb4f")
+		)
+		(instances
+			(project "CANShield"
+				(path "/b267ac6b-6338-40f7-a3df-596945dc6f78"
+					(reference "TP114")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+5V")
 		(at 222.25 114.3 0)
 		(unit 1)
@@ -13135,7 +13218,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3ed91d9d-e858-4532-b173-486f2213c5b4")
-		(property "Reference" "TP102"
+		(property "Reference" "TP103"
 			(at 51.562 234.696 0)
 			(effects
 				(font
@@ -13187,7 +13270,7 @@
 		(instances
 			(project "CANShield"
 				(path "/b267ac6b-6338-40f7-a3df-596945dc6f78"
-					(reference "TP102")
+					(reference "TP103")
 					(unit 1)
 				)
 			)
@@ -13708,7 +13791,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4aea3fe1-403f-4ac0-86ea-e1a47e606255")
-		(property "Reference" "TP104"
+		(property "Reference" "TP105"
 			(at 51.562 248.666 0)
 			(effects
 				(font
@@ -13760,7 +13843,7 @@
 		(instances
 			(project "CANShield"
 				(path "/b267ac6b-6338-40f7-a3df-596945dc6f78"
-					(reference "TP104")
+					(reference "TP105")
 					(unit 1)
 				)
 			)
@@ -14185,7 +14268,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5b05bd87-82d7-4ed1-9964-57e2419d878d")
-		(property "Reference" "TP113"
+		(property "Reference" "TP117"
 			(at 282.702 54.356 0)
 			(effects
 				(font
@@ -14237,7 +14320,7 @@
 		(instances
 			(project "CANShield"
 				(path "/b267ac6b-6338-40f7-a3df-596945dc6f78"
-					(reference "TP113")
+					(reference "TP117")
 					(unit 1)
 				)
 			)
@@ -14411,7 +14494,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5c64f268-9a8c-4165-b79d-7da5e2021c08")
-		(property "Reference" "TP114"
+		(property "Reference" "TP113"
 			(at 264.922 36.576 0)
 			(effects
 				(font
@@ -14463,7 +14546,7 @@
 		(instances
 			(project "CANShield"
 				(path "/b267ac6b-6338-40f7-a3df-596945dc6f78"
-					(reference "TP114")
+					(reference "TP113")
 					(unit 1)
 				)
 			)
@@ -16420,7 +16503,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8ed60404-4826-4bdc-b8eb-d19128617b3c")
-		(property "Reference" "TP106"
+		(property "Reference" "TP109"
 			(at 112.522 244.856 0)
 			(effects
 				(font
@@ -16472,7 +16555,7 @@
 		(instances
 			(project "CANShield"
 				(path "/b267ac6b-6338-40f7-a3df-596945dc6f78"
-					(reference "TP106")
+					(reference "TP109")
 					(unit 1)
 				)
 			)
@@ -16688,7 +16771,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "922f6f7d-78d7-4b4f-b497-d980b83eb5c1")
-		(property "Reference" "TP115"
+		(property "Reference" "TP112"
 			(at 240.792 133.096 0)
 			(effects
 				(font
@@ -16740,7 +16823,7 @@
 		(instances
 			(project "CANShield"
 				(path "/b267ac6b-6338-40f7-a3df-596945dc6f78"
-					(reference "TP115")
+					(reference "TP112")
 					(unit 1)
 				)
 			)
@@ -16755,7 +16838,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "93f784c6-32c3-4844-ae33-184e85932eec")
-		(property "Reference" "TP101"
+		(property "Reference" "TP102"
 			(at 51.562 230.886 0)
 			(effects
 				(font
@@ -16807,7 +16890,7 @@
 		(instances
 			(project "CANShield"
 				(path "/b267ac6b-6338-40f7-a3df-596945dc6f78"
-					(reference "TP101")
+					(reference "TP102")
 					(unit 1)
 				)
 			)
@@ -17161,7 +17244,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9a1d6c18-3da3-4792-91ab-2408c6636822")
-		(property "Reference" "TP111"
+		(property "Reference" "TP116"
 			(at 282.702 49.276 0)
 			(effects
 				(font
@@ -17213,7 +17296,7 @@
 		(instances
 			(project "CANShield"
 				(path "/b267ac6b-6338-40f7-a3df-596945dc6f78"
-					(reference "TP111")
+					(reference "TP116")
 					(unit 1)
 				)
 			)
@@ -17296,7 +17379,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9a280901-a5cc-4f1d-8399-2e813322b3d1")
-		(property "Reference" "TP112"
+		(property "Reference" "TP119"
 			(at 285.242 51.816 0)
 			(effects
 				(font
@@ -17348,7 +17431,7 @@
 		(instances
 			(project "CANShield"
 				(path "/b267ac6b-6338-40f7-a3df-596945dc6f78"
-					(reference "TP112")
+					(reference "TP119")
 					(unit 1)
 				)
 			)
@@ -17771,7 +17854,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a5e0b0b3-7c43-4970-acc1-c86ef4c91fe6")
-		(property "Reference" "TP117"
+		(property "Reference" "TP106"
 			(at 54.102 91.186 0)
 			(effects
 				(font
@@ -17823,7 +17906,7 @@
 		(instances
 			(project "CANShield"
 				(path "/b267ac6b-6338-40f7-a3df-596945dc6f78"
-					(reference "TP117")
+					(reference "TP106")
 					(unit 1)
 				)
 			)
@@ -19794,7 +19877,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "da69bf64-b098-4945-a9fb-50f32883c179")
-		(property "Reference" "TP105"
+		(property "Reference" "TP107"
 			(at 55.372 228.346 0)
 			(effects
 				(font
@@ -19846,7 +19929,7 @@
 		(instances
 			(project "CANShield"
 				(path "/b267ac6b-6338-40f7-a3df-596945dc6f78"
-					(reference "TP105")
+					(reference "TP107")
 					(unit 1)
 				)
 			)
@@ -20103,7 +20186,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "de6a096e-33bf-4eba-85fd-ca343087b6c0")
-		(property "Reference" "TP116"
+		(property "Reference" "TP101"
 			(at 51.562 88.646 0)
 			(effects
 				(font
@@ -20155,7 +20238,7 @@
 		(instances
 			(project "CANShield"
 				(path "/b267ac6b-6338-40f7-a3df-596945dc6f78"
-					(reference "TP116")
+					(reference "TP101")
 					(unit 1)
 				)
 			)
@@ -20312,7 +20395,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e20d0068-961a-49f2-88bc-994c6c657b2d")
-		(property "Reference" "TP118"
+		(property "Reference" "TP108"
 			(at 56.642 93.726 0)
 			(effects
 				(font
@@ -20364,7 +20447,7 @@
 		(instances
 			(project "CANShield"
 				(path "/b267ac6b-6338-40f7-a3df-596945dc6f78"
-					(reference "TP118")
+					(reference "TP108")
 					(unit 1)
 				)
 			)
@@ -20794,7 +20877,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f392fd5b-4491-4ab4-8e37-83a6eb542e14")
-		(property "Reference" "TP103"
+		(property "Reference" "TP104"
 			(at 51.562 241.046 0)
 			(effects
 				(font
@@ -20846,7 +20929,7 @@
 		(instances
 			(project "CANShield"
 				(path "/b267ac6b-6338-40f7-a3df-596945dc6f78"
-					(reference "TP103")
+					(reference "TP104")
 					(unit 1)
 				)
 			)
@@ -21136,7 +21219,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f725b1f2-421f-48f0-950d-d2c5f06120ac")
-		(property "Reference" "TP108"
+		(property "Reference" "TP111"
 			(at 123.952 235.966 0)
 			(effects
 				(font
@@ -21188,7 +21271,7 @@
 		(instances
 			(project "CANShield"
 				(path "/b267ac6b-6338-40f7-a3df-596945dc6f78"
-					(reference "TP108")
+					(reference "TP111")
 					(unit 1)
 				)
 			)
