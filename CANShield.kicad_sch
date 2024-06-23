@@ -6078,12 +6078,6 @@
 		(uuid "9b358bdc-2125-431d-9b4d-849a5037723a")
 	)
 	(junction
-		(at 125.73 229.87)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9bdc4721-42a4-479c-b6e0-3e89a6bbb38f")
-	)
-	(junction
 		(at 133.35 196.85)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6136,12 +6130,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b9c1529a-ef8e-4de9-8b76-39606bad1e33")
-	)
-	(junction
-		(at 125.73 237.49)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "bd6de376-e98a-4249-8969-9a06df88bd29")
 	)
 	(junction
 		(at 157.48 237.49)
@@ -7563,7 +7551,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 237.49) (xy 125.73 237.49)
+			(xy 121.92 237.49) (xy 157.48 237.49)
 		)
 		(stroke
 			(width 0)
@@ -8503,7 +8491,7 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 229.87) (xy 125.73 229.87)
+			(xy 105.41 229.87) (xy 137.16 229.87)
 		)
 		(stroke
 			(width 0)
@@ -9133,16 +9121,6 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 229.87) (xy 137.16 229.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dbf3baa4-8b8b-45fd-b8d6-6d05a6d4198f")
-	)
-	(wire
-		(pts
 			(xy 143.51 196.85) (xy 142.24 196.85)
 		)
 		(stroke
@@ -9420,16 +9398,6 @@
 			(type default)
 		)
 		(uuid "f087fb04-474b-4d64-af15-ef39fabd5b1e")
-	)
-	(wire
-		(pts
-			(xy 125.73 237.49) (xy 157.48 237.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f1adb676-8707-40e0-9012-f2ce98914b63")
 	)
 	(wire
 		(pts
@@ -11632,73 +11600,6 @@
 			(project "CANShield"
 				(path "/b267ac6b-6338-40f7-a3df-596945dc6f78"
 					(reference "#PWR0109")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint_Small")
-		(at 125.73 229.87 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "053c7c03-9163-4e3d-891e-bf5d5780870c")
-		(property "Reference" "TP110"
-			(at 123.952 228.346 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TestPoint_Small"
-			(at 127 231.1399 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 130.81 229.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 130.81 229.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 125.73 229.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "3e1cc9ce-12f6-483a-a0c8-72c72c7fa8dc")
-		)
-		(instances
-			(project "CANShield"
-				(path "/b267ac6b-6338-40f7-a3df-596945dc6f78"
-					(reference "TP110")
 					(unit 1)
 				)
 			)
@@ -21205,73 +21106,6 @@
 			(project "CANShield"
 				(path "/b267ac6b-6338-40f7-a3df-596945dc6f78"
 					(reference "Q103")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint_Small")
-		(at 125.73 237.49 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "f725b1f2-421f-48f0-950d-d2c5f06120ac")
-		(property "Reference" "TP111"
-			(at 123.952 235.966 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TestPoint_Small"
-			(at 127 238.7599 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 130.81 237.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 130.81 237.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 125.73 237.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "2e68af3d-2989-4f8f-bc38-43c73272364c")
-		)
-		(instances
-			(project "CANShield"
-				(path "/b267ac6b-6338-40f7-a3df-596945dc6f78"
-					(reference "TP111")
 					(unit 1)
 				)
 			)
