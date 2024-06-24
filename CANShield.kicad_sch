@@ -11203,6 +11203,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 64.77 229.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "27859aea-cbda-4d98-b6b8-729fc6841cd1")
 		)
@@ -11312,6 +11321,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 298.45 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "827409ce-0e34-473a-8c00-513fc8fda861")
 		)
@@ -11374,6 +11392,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 25.4 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
 			(at 25.4 207.01 0)
 			(effects
 				(font
@@ -11446,6 +11473,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 365.76 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
 			(at 365.76 118.11 0)
 			(effects
 				(font
@@ -11660,6 +11696,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 342.9 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2ed7c6ff-0372-4cb6-ae36-ec734ae5490e")
 		)
@@ -11722,6 +11767,15 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 284.48 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
 			(at 284.48 45.72 0)
 			(effects
 				(font
@@ -11855,6 +11909,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 255.27 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
 			(at 255.27 232.41 0)
 			(effects
 				(font
@@ -11998,6 +12061,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 147.32 247.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5708612c-7e7b-43cb-86ab-5ebdaf81dcd5")
 		)
@@ -12059,6 +12131,15 @@
 		)
 		(property "Description" "Adjustable current limit high side switch IC, active-high enable, 2.8..5.5V, 0.2..1.7A, 89mOhm Ron, TSOP-6"
 			(at 254 148.844 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 254 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12140,6 +12221,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 304.8 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
 			(at 304.8 50.8 0)
 			(effects
 				(font
@@ -12284,6 +12374,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 240.03 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b4053f82-3e7d-4f29-818d-5680c1520ad3")
 		)
@@ -12420,6 +12519,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 133.35 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2745bca0-058d-4f5d-beb7-18109be504b2")
 		)
@@ -12482,6 +12590,15 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 287.02 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
 			(at 287.02 48.26 0)
 			(effects
 				(font
@@ -12557,6 +12674,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 50.8 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "CANShield"
 				(path "/b267ac6b-6338-40f7-a3df-596945dc6f78"
@@ -12616,6 +12742,15 @@
 			)
 		)
 		(property "Description" "30V Vds, 1.4A Id, N-Channel MOSFET, SC-70"
+			(at 304.8 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
 			(at 304.8 224.79 0)
 			(effects
 				(font
@@ -12760,6 +12895,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 389.89 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "67b40f6a-e442-4d23-a677-eb49c909f1ed")
 		)
@@ -12822,6 +12966,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 60.96 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
 			(at 60.96 219.71 0)
 			(effects
 				(font
@@ -12958,6 +13111,15 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 273.05 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
 			(at 273.05 67.31 0)
 			(effects
 				(font
@@ -13165,6 +13327,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 53.34 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "89fc156c-40a4-4c85-a862-a29d3fcee67a")
 		)
@@ -13222,6 +13393,15 @@
 			)
 		)
 		(property "Description" "RGB LED, anode/red/green/blue"
+			(at 240.03 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
 			(at 240.03 199.39 0)
 			(effects
 				(font
@@ -13372,6 +13552,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 361.95 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "83e083ab-4ebe-4af2-99fe-48c89660075b")
 		)
@@ -13463,6 +13652,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 120.65 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a87bfb1f-f036-4f7c-a216-d065e9c8a1e7")
 		)
@@ -13525,6 +13723,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 137.16 247.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
 			(at 137.16 247.65 0)
 			(effects
 				(font
@@ -13601,6 +13808,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 138.43 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3f7c132a-ea7e-4db2-8e7d-660121892769")
 		)
@@ -13660,6 +13876,15 @@
 			)
 		)
 		(property "Description" "Inductor with ferrite core"
+			(at 374.65 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
 			(at 374.65 105.41 0)
 			(effects
 				(font
@@ -13730,6 +13955,15 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 53.34 250.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
 			(at 53.34 250.19 0)
 			(effects
 				(font
@@ -13937,6 +14171,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 374.65 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b72439b5-9f6a-4089-a1b8-93aaaf492ceb")
 		)
@@ -13999,6 +14242,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated"
+			(at 184.15 229.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
 			(at 184.15 229.87 0)
 			(effects
 				(font
@@ -14215,6 +14467,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 284.48 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f5bf9f54-c965-445d-9e1c-fe4cc25b1dd6")
 		)
@@ -14275,6 +14536,15 @@
 			)
 		)
 		(property "Description" "8-Mbit, 2.5V Minimum SPI Serial Flash Memory with Dual-I/O and Quad-I/O Support, TSSOP-8"
+			(at 273.05 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
 			(at 273.05 53.34 0)
 			(effects
 				(font
@@ -14371,6 +14641,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 307.34 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d796c979-ef24-46a9-a003-3bdfa351384c")
 		)
@@ -14433,6 +14712,15 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 266.7 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
 			(at 266.7 38.1 0)
 			(effects
 				(font
@@ -14508,6 +14796,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 50.8 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project ""
 				(path "/b267ac6b-6338-40f7-a3df-596945dc6f78"
@@ -14564,6 +14861,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 349.25 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
 			(at 349.25 212.09 0)
 			(effects
 				(font
@@ -14642,6 +14948,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 222.25 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "afc506ee-0872-4f69-abd8-72ee6c69c6e0")
 		)
@@ -14701,6 +15016,15 @@
 			)
 		)
 		(property "Description" "Inductor with ferrite core"
+			(at 374.65 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
 			(at 374.65 100.33 0)
 			(effects
 				(font
@@ -14769,6 +15093,15 @@
 			)
 		)
 		(property "Description" "Generic connector, double row, 02x19, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 147.32 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
 			(at 147.32 85.09 0)
 			(effects
 				(font
@@ -14955,6 +15288,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 234.95 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "566f6c07-9de9-4a0f-81c5-36cf237848ca")
 		)
@@ -15025,6 +15367,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 346.71 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "514d4995-8bec-4e9c-a8c7-0bf26c924fa8")
 		)
@@ -15084,6 +15435,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 389.89 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
 			(at 389.89 39.37 0)
 			(effects
 				(font
@@ -15294,6 +15654,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 285.75 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3c8d2c54-4b8b-44b3-af5b-5dc99694964a")
 		)
@@ -15429,6 +15798,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 381 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "dd13859d-3b38-4d67-bed0-9118f8f576ef")
 		)
@@ -15494,6 +15872,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 389.89 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
 			(at 389.89 46.99 0)
 			(effects
 				(font
@@ -15705,6 +16092,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 60.96 260.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2d4af6d1-da98-4365-877f-f5805e6a09c2")
 		)
@@ -15842,6 +16238,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 105.41 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3c79611b-f8e3-48fa-93b4-4754b8aefffb")
 		)
@@ -15904,6 +16309,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 297.18 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
 			(at 297.18 232.41 0)
 			(effects
 				(font
@@ -15982,6 +16396,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 25.4 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "CANShield"
 				(path "/b267ac6b-6338-40f7-a3df-596945dc6f78"
@@ -16038,6 +16461,15 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
+			(at 50.8 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
 			(at 50.8 149.86 0)
 			(effects
 				(font
@@ -16110,6 +16542,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 222.25 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "395af547-9f5d-42cc-bc78-47441630b6e8")
 		)
@@ -16170,6 +16611,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 335.28 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
 			(at 335.28 41.91 0)
 			(effects
 				(font
@@ -16314,6 +16764,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 167.64 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d03b829f-d14e-4183-98cf-bb37bedd738c")
 		)
@@ -16450,6 +16909,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 114.3 246.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fa3746d7-a2e5-4a72-b86b-80c4b16a3b1d")
 		)
@@ -16573,6 +17041,15 @@
 			)
 		)
 		(property "Description" "Inductor with ferrite core"
+			(at 156.21 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
 			(at 156.21 196.85 0)
 			(effects
 				(font
@@ -16718,6 +17195,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 242.57 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "75160b29-e37e-45e0-974c-89a6d8d13a0d")
 		)
@@ -16785,6 +17271,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 53.34 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1c9ced6b-d99a-4ec3-9c6c-48ae16e93bb4")
 		)
@@ -16843,6 +17338,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 157.48 247.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
 			(at 157.48 247.65 0)
 			(effects
 				(font
@@ -16987,6 +17491,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 311.15 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c38126b3-d6b8-4f8f-ac4e-07509afc1fff")
 		)
@@ -17121,6 +17634,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 100.33 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "839792a7-61b1-47fe-b486-5a3d202465cf")
 		)
@@ -17191,6 +17713,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 284.48 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0071a47c-3382-414b-a388-a36d57e7154c")
 		)
@@ -17248,6 +17779,15 @@
 			)
 		)
 		(property "Description" "40V 200mA Schottky Barrier Rectifier Diode, 0603"
+			(at 168.91 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
 			(at 168.91 224.79 0)
 			(effects
 				(font
@@ -17326,6 +17866,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 287.02 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "baae7b2e-e5b7-4de7-a537-dd674f9116a5")
 		)
@@ -17385,6 +17934,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 88.9 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
 			(at 88.9 205.74 0)
 			(effects
 				(font
@@ -17529,6 +18087,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 265.43 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7b7d369e-91d3-4794-9ade-4985c3bef4b5")
 		)
@@ -17597,6 +18164,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 281.94 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "51557cd0-bcb0-4381-a5b5-1c377f56e8e2")
 		)
@@ -17657,6 +18233,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 335.28 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
 			(at 335.28 52.07 0)
 			(effects
 				(font
@@ -17801,6 +18386,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 55.88 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e38bd42a-2384-4a3c-ae3c-32d3cdab383b")
 		)
@@ -17860,6 +18454,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 167.64 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
 			(at 167.64 190.5 0)
 			(effects
 				(font
@@ -17930,6 +18533,15 @@
 			)
 		)
 		(property "Description" "Fiducial Marker"
+			(at 25.4 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
 			(at 25.4 149.86 0)
 			(effects
 				(font
@@ -18132,6 +18744,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 374.65 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3e54b6f6-eb50-4d31-9929-53468635c0b5")
 		)
@@ -18202,6 +18823,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 25.4 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project ""
 				(path "/b267ac6b-6338-40f7-a3df-596945dc6f78"
@@ -18258,6 +18888,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 149.86 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
 			(at 149.86 209.55 0)
 			(effects
 				(font
@@ -18533,6 +19172,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 393.7 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "7674ecd7-4f91-4528-bc7b-f9674d20dea8")
 		)
@@ -18681,6 +19329,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 129.54 247.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bf53f9be-d75b-42be-aa1e-3022bc5d1cd5")
 		)
@@ -18807,6 +19464,15 @@
 			)
 		)
 		(property "Description" "Jumper, 2-pole, open"
+			(at 92.71 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
 			(at 92.71 194.31 0)
 			(effects
 				(font
@@ -19015,6 +19681,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 100.33 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8499d76c-ab6f-4bba-8834-37946f1e6ca5")
 		)
@@ -19074,6 +19749,15 @@
 			)
 		)
 		(property "Description" "Inductor with ferrite core"
+			(at 374.65 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
 			(at 374.65 110.49 0)
 			(effects
 				(font
@@ -19152,6 +19836,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 266.7 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "23a1eae5-6a39-49bb-bab8-95eef2edc0db")
 		)
@@ -19214,6 +19907,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 330.2 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
 			(at 330.2 101.6 0)
 			(effects
 				(font
@@ -19556,6 +20258,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 129.54 260.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b732324e-9b90-476e-9afe-a5a346f91cba")
 		)
@@ -19824,6 +20535,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 57.15 229.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bb9b9f6b-d846-4da5-a1cb-dbe46b4dccb1")
 		)
@@ -19881,6 +20601,15 @@
 			)
 		)
 		(property "Description" "Generic connector, double row, 02x19, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 67.31 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
 			(at 67.31 85.09 0)
 			(effects
 				(font
@@ -20133,6 +20862,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 53.34 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9220bc15-0670-45c7-9f2e-b31a6bb5fc40")
 		)
@@ -20269,6 +21007,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 262.89 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "74f54738-cc18-402c-9ff1-1b29d45d1509")
 		)
@@ -20334,6 +21081,15 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 58.42 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
 			(at 58.42 95.25 0)
 			(effects
 				(font
@@ -20409,6 +21165,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 339.09 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "195786f6-3938-4fd8-8815-0cd0b0bc7856")
 		)
@@ -20471,6 +21236,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 121.92 247.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
 			(at 121.92 247.65 0)
 			(effects
 				(font
@@ -20617,6 +21391,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 171.45 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "1eae33c5-7d33-431b-b0f8-7e8db669ca76")
 		)
@@ -20754,6 +21537,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 125.73 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "fd9de6a5-2676-411f-b7a8-f97ecade76a2")
 		)
@@ -20816,6 +21608,15 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 53.34 242.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
 			(at 53.34 242.57 0)
 			(effects
 				(font
@@ -20946,6 +21747,15 @@
 			)
 		)
 		(property "Description" "Jumper, 2-pole, open"
+			(at 107.95 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
 			(at 107.95 196.85 0)
 			(effects
 				(font
@@ -21085,6 +21895,15 @@
 			)
 		)
 		(property "Description" "30V Vds, 1.4A Id, N-Channel MOSFET, SC-70"
+			(at 346.71 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
 			(at 346.71 224.79 0)
 			(effects
 				(font
