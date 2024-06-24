@@ -23614,6 +23614,16 @@
 		(layer "Edge.Cuts")
 		(uuid "f8e424b1-4cc6-4104-8139-950cddf16178")
 	)
+	(gr_line
+		(start 146.25 127)
+		(end 150.25 127)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "56f7050e-364c-4446-bae5-b8d4486811b9")
+	)
 	(gr_text "CN9"
 		(at 166.05 73.9 0)
 		(layer "B.SilkS")
@@ -23893,6 +23903,205 @@
 			)
 			(justify mirror)
 		)
+	)
+	(dimension
+		(type aligned)
+		(layer "F.Fab")
+		(uuid "466046be-2144-4ea6-bfbf-339e7ed6bf61")
+		(pts
+			(xy 100.25 70.1) (xy 120.25 70.1)
+		)
+		(height -5.2)
+		(gr_text "20.0000 mm"
+			(at 110.25 63.75 0)
+			(layer "F.Fab")
+			(uuid "466046be-2144-4ea6-bfbf-339e7ed6bf61")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 1)
+			(precision 4)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(extension_height 0.58642)
+			(extension_offset 0.5) keep_text_aligned)
+	)
+	(dimension
+		(type aligned)
+		(layer "F.Fab")
+		(uuid "5a932ffc-3d5d-4051-ae96-19215af8de3f")
+		(pts
+			(xy 120.25 70.1) (xy 150.25 70.1)
+		)
+		(height -5.2)
+		(gr_text "30.0000 mm"
+			(at 135.25 63.75 0)
+			(layer "F.Fab")
+			(uuid "5a932ffc-3d5d-4051-ae96-19215af8de3f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 1)
+			(precision 4)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(extension_height 0.58642)
+			(extension_offset 0.5) keep_text_aligned)
+	)
+	(dimension
+		(type aligned)
+		(layer "F.Fab")
+		(uuid "ad7d3234-d674-448a-8a42-dd133cb197d8")
+		(pts
+			(xy 168.25 68) (xy 168.25 125)
+		)
+		(height -7.6)
+		(gr_text "57.0000 mm"
+			(at 174.7 96.5 90)
+			(layer "F.Fab")
+			(uuid "ad7d3234-d674-448a-8a42-dd133cb197d8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 1)
+			(precision 4)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(extension_height 0.58642)
+			(extension_offset 0.5) keep_text_aligned)
+	)
+	(dimension
+		(type aligned)
+		(layer "F.Fab")
+		(uuid "c481bf65-baf8-464b-a307-dcd87f452dfe")
+		(pts
+			(xy 150.25 70.1) (xy 170.25 70.1)
+		)
+		(height -5.2)
+		(gr_text "20.0000 mm"
+			(at 160.25 63.75 0)
+			(layer "F.Fab")
+			(uuid "c481bf65-baf8-464b-a307-dcd87f452dfe")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 1)
+			(precision 4)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(extension_height 0.58642)
+			(extension_offset 0.5) keep_text_aligned)
+	)
+	(dimension
+		(type aligned)
+		(layer "F.Fab")
+		(uuid "f62c2d58-7aab-4728-a6a3-8ec509627ae2")
+		(pts
+			(xy 150.25 127) (xy 150.25 125)
+		)
+		(height 25.6)
+		(gr_text "2.0000 mm"
+			(at 175.75 136.1 90)
+			(layer "F.Fab")
+			(uuid "f62c2d58-7aab-4728-a6a3-8ec509627ae2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify left)
+			)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 1)
+			(precision 4)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 2)
+			(extension_height 0.58642)
+			(extension_offset 0.5) keep_text_aligned)
+	)
+	(dimension
+		(type aligned)
+		(layer "F.Fab")
+		(uuid "f935af3b-c623-4bcd-980b-484edb2be13e")
+		(pts
+			(xy 100.25 69) (xy 170.25 69)
+		)
+		(height -14)
+		(gr_text "70.0000 mm"
+			(at 135.25 53.85 0)
+			(layer "F.Fab")
+			(uuid "f935af3b-c623-4bcd-980b-484edb2be13e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 1)
+			(precision 4)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(extension_height 0.58642)
+			(extension_offset 0.5) keep_text_aligned)
 	)
 	(segment
 		(start 115.360214 106.600028)
