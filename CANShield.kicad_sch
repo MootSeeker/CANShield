@@ -9887,7 +9887,7 @@
 		)
 		(uuid "96c1e601-2639-4f84-a3c4-a99311889464")
 	)
-	(text "8Mbit NOR-Flash Memory to save firmware update\nOptional: 4MB SDRAM to save firmware for firmware update\n"
+	(text "4Mbit NOR-Flash Memory to save firmware update\nOptional: 4Mbit SDRAM to save firmware for firmware update\n"
 		(exclude_from_sim no)
 		(at 281.178 72.898 0)
 		(effects
@@ -12103,7 +12103,7 @@
 				)
 			)
 		)
-		(property "Value" "BD2222G"
+		(property "Value" "BD22441G-C"
 			(at 254 124.46 0)
 			(effects
 				(font
@@ -12120,7 +12120,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://fscdn.rohm.com/en/products/databook/datasheet/ic/power/power_switch/bd2242g-e.pdf"
+		(property "Datasheet" "https://fscdn.rohm.com/en/products/databook/datasheet/ic/power/power_switch/bd22441g-c-e.pdf"
 			(at 254.254 150.876 0)
 			(effects
 				(font
@@ -12138,7 +12138,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+		(property "JLCPCB Part # (optional)" "C5576416"
 			(at 254 132.08 0)
 			(effects
 				(font
@@ -14508,7 +14508,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "AT25SF081-XMHD-X"
+		(property "Value" "AT25DF041B-XMHNHR-T"
 			(at 264.16 54.6099 0)
 			(effects
 				(font
@@ -14526,7 +14526,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.adestotech.com/wp-content/uploads/DS-AT25SF081_045.pdf"
+		(property "Datasheet" "https://www.renesas.com/us/en/document/dst/at25df041b-datasheet?r=1608456"
 			(at 273.05 53.34 0)
 			(effects
 				(font
@@ -14535,7 +14535,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "8-Mbit, 2.5V Minimum SPI Serial Flash Memory with Dual-I/O and Quad-I/O Support, TSSOP-8"
+		(property "Description" "4-Mbit, 1.65 V Minimum SPI Serial Flash Memory with Dual I/O Support, TSSOP-8"
 			(at 273.05 53.34 0)
 			(effects
 				(font
@@ -14605,7 +14605,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "680"
 			(at 309.88 213.3599 0)
 			(effects
 				(font
@@ -14833,7 +14833,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "340"
 			(at 351.79 213.3599 0)
 			(effects
 				(font
