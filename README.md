@@ -24,17 +24,17 @@ CANShield is a development shield designed for the STM32 Nucleo-64 board. It int
 - **KiCad Design Files**: Open-source design files available, allowing for easy modifications and customizations.
 
 ## Circuit Description
-Dieses Projekt umfasst die Entwicklung und Implementierung eines maßgeschneiderten Entwicklungsboards mit dem NXP TJA1443 CAN-FD Chip. Das Board wird mit einem Nucleo-64 Entwicklungsboard, speziell dem Nucleo-32G0B1, verbunden, um die Fähigkeiten der CAN-FD-Schnittstelle vollständig auszuschöpfen.
+This project includes the development and implementation of a custom development board with the NXP TJA1443 CAN-FD chip. The board connects to an Nucleo-64 development board, specifically the Nucleo-32G0B1, to fully exploit the capabilities of the CAN-FD interface.
 
-Der Hauptzweck dieses Projekts besteht darin, das volle Potenzial des NXP TJA1443 Chips in einem CAN-FD Netzwerk zu nutzen. Durch die Integration dieses Chips mit dem Nucleo-32G0B1 wollen wir verschiedene Protokolle innerhalb des CAN-Netzwerks entwickeln und testen, um eine robuste Plattform für die CAN-FD-Kommunikation bereitzustellen.
+The main purpose of this project is to utilize the full potential of the NXP TJA1443 chip in a CAN-FD network. By integrating this chip with the Nucleo-32G0B1, we aim to develop and test various protocols within the CAN network, providing a robust platform for CAN-FD communication.
 
-Wesentliche Merkmale:
-- **NXP TJA1443 CAN-FD Chip**: Hochgeschwindigkeits-CAN-Transceiver mit erweiterten Funktionen für CAN-FD-Netzwerke.
-- **Nucleo-32G0B1 Kompatibilität**: Nutzung des STM32G0 Mikrocontrollers mit integrierter CAN-FD-Unterstützung.
-- **Eigenes Entwicklungsboard**: Maßgeschneidertes Design für einfache Integration und Testen von CAN-FD-Protokollen.
-- **Protokollentwicklung und -test**: Fokus auf die Erstellung und Bewertung verschiedener Protokolle innerhalb des CAN-Netzwerks.
+Key Features:
+- **NXP TJA1443 CAN-FD Chip**: High-speed CAN transceiver with advanced features for CAN-FD networks.
+- **Nucleo-32G0B1 Compatibility**: Utilizes the STM32G0 microcontroller with integrated CAN-FD support.
+- **Custom Development Board**: Tailored design for easy integration and testing of CAN-FD protocols.
+- **Protocol Development and Testing**: Focus on creating and evaluating various protocols within the CAN network.
 
-Dieses Projekt stellt eine umfassende Plattform für die Entwicklung und das Testen von CAN-FD-Protokollen dar und nutzt dabei die Fähigkeiten des NXP TJA1443 Chips und des Nucleo-32G0B1 Entwicklungsboards.
+This project provides a comprehensive platform for developing and testing CAN-FD protocols, leveraging the capabilities of the NXP TJA1443 chip and the Nucleo-32G0B1 development board.
 
 ## Hardware Requirements
 To get started with CANShield, you will need the following hardware components:
