@@ -6399,16 +6399,10 @@
 		(uuid "003d8693-efb5-4a12-a8e0-08390f9ce486")
 	)
 	(junction
-		(at 55.88 92.71)
+		(at 53.34 105.41)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "02303f96-deb8-4354-a7ed-0fe6ab41fd36")
-	)
-	(junction
-		(at 58.42 95.25)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "07f584d9-1304-4292-bcde-d6958e47eeb0")
+		(uuid "020058c1-cc19-44fb-acb1-7ccacb2b205b")
 	)
 	(junction
 		(at 266.7 134.62)
@@ -6477,12 +6471,6 @@
 		(uuid "415674f6-2fe0-4077-a3a2-f2ea05ebf6de")
 	)
 	(junction
-		(at 53.34 90.17)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4273ae94-9e42-4cc8-839c-8ca86f5329c6")
-	)
-	(junction
 		(at 57.15 229.87)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6517,6 +6505,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6eb095db-e184-4e5d-8f6a-baf8715c2902")
+	)
+	(junction
+		(at 55.88 107.95)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "75b7f263-acf1-4648-89c3-005277ea1c86")
 	)
 	(junction
 		(at 147.32 229.87)
@@ -6679,6 +6673,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "dfb4c1ec-482a-49ef-89b3-7faaef6d2ec4")
+	)
+	(junction
+		(at 53.34 97.79)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e0604d2f-291f-413b-8f30-096bdbf79d76")
 	)
 	(junction
 		(at 307.34 199.39)
@@ -6950,6 +6950,16 @@
 	)
 	(wire
 		(pts
+			(xy 53.34 105.41) (xy 62.23 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "03499f3a-f84d-4c76-a06a-1b6625b7fcff")
+	)
+	(wire
+		(pts
 			(xy 349.25 194.31) (xy 375.92 194.31)
 		)
 		(stroke
@@ -7080,7 +7090,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 107.95) (xy 62.23 107.95)
+			(xy 50.8 107.95) (xy 55.88 107.95)
 		)
 		(stroke
 			(width 0)
@@ -7610,7 +7620,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 90.17) (xy 53.34 90.17)
+			(xy 50.8 90.17) (xy 62.23 90.17)
 		)
 		(stroke
 			(width 0)
@@ -7790,6 +7800,16 @@
 	)
 	(wire
 		(pts
+			(xy 55.88 107.95) (xy 62.23 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4b1c12ec-f4cb-4a7c-96e0-1a823315da33")
+	)
+	(wire
+		(pts
 			(xy 154.94 102.87) (xy 168.91 102.87)
 		)
 		(stroke
@@ -7897,16 +7917,6 @@
 			(type default)
 		)
 		(uuid "549d4678-ce46-432e-a6f4-abe15bf51069")
-	)
-	(wire
-		(pts
-			(xy 50.8 95.25) (xy 58.42 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "54d9e056-83bf-4f22-950c-997bd390284f")
 	)
 	(polyline
 		(pts
@@ -8030,7 +8040,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 105.41) (xy 62.23 105.41)
+			(xy 50.8 105.41) (xy 53.34 105.41)
 		)
 		(stroke
 			(width 0)
@@ -8660,7 +8670,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 97.79) (xy 62.23 97.79)
+			(xy 50.8 97.79) (xy 53.34 97.79)
 		)
 		(stroke
 			(width 0)
@@ -8910,6 +8920,16 @@
 	)
 	(wire
 		(pts
+			(xy 53.34 97.79) (xy 62.23 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a66190db-d2d4-4869-93e1-12cc21ebb3e4")
+	)
+	(wire
+		(pts
 			(xy 227.33 186.69) (xy 227.33 199.39)
 		)
 		(stroke
@@ -9020,7 +9040,7 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 95.25) (xy 62.23 95.25)
+			(xy 50.8 95.25) (xy 62.23 95.25)
 		)
 		(stroke
 			(width 0)
@@ -9390,16 +9410,6 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 90.17) (xy 62.23 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cc58165f-5000-48e7-bb4f-62d1bce4b335")
-	)
-	(wire
-		(pts
 			(xy 137.16 229.87) (xy 147.32 229.87)
 		)
 		(stroke
@@ -9550,7 +9560,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 92.71) (xy 62.23 92.71)
+			(xy 50.8 92.71) (xy 62.23 92.71)
 		)
 		(stroke
 			(width 0)
@@ -9837,16 +9847,6 @@
 			(type default)
 		)
 		(uuid "e792349b-6daa-4949-b823-7e4bca1167a8")
-	)
-	(wire
-		(pts
-			(xy 50.8 92.71) (xy 55.88 92.71)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e877396c-c9de-4abf-b5f0-9eee2c8cd6a5")
 	)
 	(wire
 		(pts
@@ -13233,6 +13233,82 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint_Small")
+		(at 53.34 97.79 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "25c9aa57-bbd3-4f8a-9093-864d298c7b0f")
+		(property "Reference" "TP108"
+			(at 51.562 96.266 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint_Small"
+			(at 54.61 99.0599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+			(at 58.42 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 58.42 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 53.34 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 53.34 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7407e527-1c08-46b8-9989-f90d9bf8916e")
+		)
+		(instances
+			(project "CANShield"
+				(path "/b267ac6b-6338-40f7-a3df-596945dc6f78"
+					(reference "TP108")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 339.09 243.84 0)
 		(unit 1)
@@ -13448,6 +13524,82 @@
 			(project "CANShield"
 				(path "/b267ac6b-6338-40f7-a3df-596945dc6f78"
 					(reference "R101")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint_Small")
+		(at 55.88 107.95 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "31ddc149-c1ef-417b-a2c0-204634d03f67")
+		(property "Reference" "TP106"
+			(at 54.102 106.426 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint_Small"
+			(at 57.15 109.2199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+			(at 60.96 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 60.96 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 55.88 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 55.88 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ff51f79e-3599-490e-b89a-66ec972ee938")
+		)
+		(instances
+			(project "CANShield"
+				(path "/b267ac6b-6338-40f7-a3df-596945dc6f78"
+					(reference "TP106")
 					(unit 1)
 				)
 			)
@@ -18488,6 +18640,82 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint_Small")
+		(at 53.34 105.41 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9e059b4e-7bdc-40e3-a069-a445858742c3")
+		(property "Reference" "TP101"
+			(at 51.562 103.886 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint_Small"
+			(at 54.61 106.6799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+			(at 58.42 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 58.42 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 53.34 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 53.34 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d89ce4b0-54b5-47bc-aaac-8ca28ac2ce43")
+		)
+		(instances
+			(project "CANShield"
+				(path "/b267ac6b-6338-40f7-a3df-596945dc6f78"
+					(reference "TP101")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 88.9 205.74 0)
 		(unit 1)
@@ -18926,82 +19154,6 @@
 			(project "CANShield"
 				(path "/b267ac6b-6338-40f7-a3df-596945dc6f78"
 					(reference "#PWR0125")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint_Small")
-		(at 55.88 92.71 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "a5e0b0b3-7c43-4970-acc1-c86ef4c91fe6")
-		(property "Reference" "TP106"
-			(at 54.102 91.186 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TestPoint_Small"
-			(at 57.15 93.9799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 60.96 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 60.96 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 55.88 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
-			(at 55.88 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e38bd42a-2384-4a3c-ae3c-32d3cdab383b")
-		)
-		(instances
-			(project "CANShield"
-				(path "/b267ac6b-6338-40f7-a3df-596945dc6f78"
-					(reference "TP106")
 					(unit 1)
 				)
 			)
@@ -21408,82 +21560,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:TestPoint_Small")
-		(at 53.34 90.17 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "de6a096e-33bf-4eba-85fd-ca343087b6c0")
-		(property "Reference" "TP101"
-			(at 51.562 88.646 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TestPoint_Small"
-			(at 54.61 91.4399 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 58.42 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 58.42 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 53.34 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
-			(at 53.34 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "9220bc15-0670-45c7-9f2e-b31a6bb5fc40")
-		)
-		(instances
-			(project "CANShield"
-				(path "/b267ac6b-6338-40f7-a3df-596945dc6f78"
-					(reference "TP101")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 175.26 240.03 0)
 		(unit 1)
@@ -21635,82 +21711,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:TestPoint_Small")
-		(at 58.42 95.25 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "e20d0068-961a-49f2-88bc-994c6c657b2d")
-		(property "Reference" "TP108"
-			(at 56.642 93.726 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TestPoint_Small"
-			(at 59.69 96.5199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 63.5 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 63.5 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 58.42 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
-			(at 58.42 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "5353d442-d6f5-427f-b338-8bdac6e5731f")
-		)
-		(instances
-			(project "CANShield"
-				(path "/b267ac6b-6338-40f7-a3df-596945dc6f78"
-					(reference "TP108")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 339.09 232.41 0)
 		(unit 1)
@@ -21817,7 +21817,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SOT23_NEX"
+		(property "Footprint" "PESD5V:SOT23_NEX"
 			(at 342.9 119.38 0)
 			(effects
 				(font
