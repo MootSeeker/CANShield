@@ -320,6 +320,19 @@
 				)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e6a36011-48ca-48c0-845a-50a68989f891")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/a5e0b0b3-7c43-4970-acc1-c86ef4c91fe6")
 		(sheetname "Stammblatt")
@@ -436,11 +449,24 @@
 				)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f4bb97d7-cfa6-40aa-b19b-a57870d6a610")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/5c64f268-9a8c-4165-b79d-7da5e2021c08")
 		(sheetname "Stammblatt")
 		(sheetfile "CANShield.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.7)
@@ -549,6 +575,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fe573e95-a844-441f-a528-ada97ac15f6a")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -763,6 +802,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "864b6043-3c13-45bf-9690-dd8438462400")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -982,11 +1034,24 @@
 				)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ba7c8a47-1d0c-46a7-adc8-c73de1c38a08")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/da69bf64-b098-4945-a9fb-50f32883c179")
 		(sheetname "Stammblatt")
 		(sheetfile "CANShield.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.7)
@@ -1094,6 +1159,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "981e81ac-53d0-4998-a2be-75c8ff429397")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -1366,6 +1444,19 @@
 				)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c302fd0a-398f-43a3-8bf8-e6275bef4f86")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/990dd640-5e22-4996-a455-ef10dae1b0a0")
 		(sheetname "Stammblatt")
@@ -1529,7 +1620,7 @@
 				)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "680"
 			(at 0 1.17 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -1576,6 +1667,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2d791dbf-2b7d-4980-a47e-4e6a27b46a39")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -1790,6 +1894,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b6e03c3e-bbd7-4b1c-8fb5-299e9542e783")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -2010,11 +2127,24 @@
 				)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7cacfde8-a564-478a-bc4d-2cb5829e1eec")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/45ae554f-9827-46d8-9fbc-5ff2975a57c3")
 		(sheetname "Stammblatt")
 		(sheetfile "CANShield.kicad_sch")
-		(attr smd dnp)
+		(attr smd exclude_from_bom dnp)
 		(fp_line
 			(start -0.254724 -0.5225)
 			(end 0.254724 -0.5225)
@@ -2220,6 +2350,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "15f86505-900d-49e6-9cc6-735e1a242a53")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -2435,6 +2578,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dd393aa0-6d4b-4f0f-913b-e7df54fe6be5")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -2708,6 +2864,19 @@
 				)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6518e2aa-218d-4e11-8c34-94422be8a10f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/de6a096e-33bf-4eba-85fd-ca343087b6c0")
 		(sheetname "Stammblatt")
@@ -2825,11 +2994,24 @@
 				)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "941d22d6-65b0-4e82-882e-a81f6b8779ea")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/5b05bd87-82d7-4ed1-9964-57e2419d878d")
 		(sheetname "Stammblatt")
 		(sheetfile "CANShield.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.7)
@@ -2938,6 +3120,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "28e4c0fd-fd89-40d8-86d5-febb9b573510")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -3152,6 +3347,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0833b5cb-a2e1-4b10-a040-c4a4d961ef35")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -3424,11 +3632,24 @@
 				)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d2a81a86-d9a0-4438-820a-c0298d8e6774")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "DFN*6x5mm*P1.27mm*")
 		(path "/42fcd0a6-af90-492b-b5b9-b55a3c8a94ad")
 		(sheetname "Stammblatt")
 		(sheetfile "CANShield.kicad_sch")
-		(attr smd dnp)
+		(attr smd exclude_from_bom dnp)
 		(fp_line
 			(start 0 -2.56)
 			(end 1.95 -2.56)
@@ -3781,11 +4002,24 @@
 				)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ac8bcd7d-7602-458b-9ad4-3a9bcf0437a0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/30e15143-29cb-45ad-a5cb-67b92ba1957e")
 		(sheetname "Stammblatt")
 		(sheetfile "CANShield.kicad_sch")
-		(attr smd dnp)
+		(attr smd exclude_from_bom dnp)
 		(fp_line
 			(start -0.167621 0.38)
 			(end 0.167621 0.38)
@@ -3995,11 +4229,24 @@
 				)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "db816074-ebdc-410a-850d-1ef4517c649d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/4aea3fe1-403f-4ac0-86ea-e1a47e606255")
 		(sheetname "Stammblatt")
 		(sheetfile "CANShield.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.7)
@@ -4108,6 +4355,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "493d208a-72ec-438f-b86f-050e537fbb9f")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -4335,6 +4595,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "05f0ee96-cd98-4143-a242-888df986575a")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -4607,6 +4880,19 @@
 				)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "179b08e5-4efc-403e-a4be-b0fa4a07567a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/9e4c0bd7-117d-4e56-a3fa-a1e3dc2d0b13")
 		(sheetname "Stammblatt")
@@ -4822,6 +5108,19 @@
 				)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9aa73044-9b86-44d8-8b19-88badb3064e3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Fiducial*")
 		(path "/b00d2eed-cba5-4a97-98fe-a9dce663f0b4")
 		(sheetname "Stammblatt")
@@ -4934,6 +5233,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d7486936-eb49-4ca6-91d4-f7ad0a66bf55")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -5084,6 +5396,468 @@
 			)
 		)
 	)
+	(footprint "PESD5V:SOT23_NEX"
+		(layer "F.Cu")
+		(uuid "456b7048-f7e0-470f-a05c-4dbeef13a217")
+		(at 156.69725 115 90)
+		(tags "PESD5V0S2BT ")
+		(property "Reference" "U105"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.SilkS")
+			(uuid "a97ff45d-d879-448b-b19d-fe68ef959446")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "PESD5V0S2BT"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "6b755fdd-e2f0-42f4-8b9e-59ec633ccd95")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" "PESD5V:SOT23_NEX"
+			(at 0 0 90)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "53c01864-d700-40bc-98b8-7922948de8ba")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" "PESD5V0S2BT"
+			(at 0 0 90)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "765d64cc-ea1b-42fe-ade3-c688d737c892")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 90)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6016f301-46b2-4c26-be68-c4c8c604f026")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "SOT23_NEX SOT23_NEX-M SOT23_NEX-L")
+		(path "/e913d6fa-37d6-4c40-874a-60af8df6f656")
+		(sheetname "Stammblatt")
+		(sheetfile "CANShield.kicad_sch")
+		(attr smd)
+		(fp_line
+			(start 1.6256 -0.8255)
+			(end 0.61214 -0.8255)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "a3172eac-4bbc-4c3d-a147-1b720fcbd761")
+		)
+		(fp_line
+			(start -0.61214 -0.8255)
+			(end -1.6256 -0.8255)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "7608ea49-4566-4a77-8f18-a7ab09acb0b2")
+		)
+		(fp_line
+			(start -1.6256 -0.8255)
+			(end -1.6256 0.8255)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "e834724c-172b-4c04-be9b-2c0acdad98e7")
+		)
+		(fp_line
+			(start 1.6256 0.8255)
+			(end 1.6256 -0.8255)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "e0478bac-c3f7-44ad-8a6a-056f000a3c0a")
+		)
+		(fp_line
+			(start -0.34036 0.8255)
+			(end 0.34036 0.8255)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "75e58da3-9dca-4f6c-82cc-5a95c7902ff4")
+		)
+		(fp_circle
+			(center -2.7686 1.25)
+			(end -2.6416 1.25)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(fill none)
+			(layer "F.SilkS")
+			(uuid "b92b8894-a94f-4e9f-b82a-dfa9cb4fb1a7")
+		)
+		(fp_line
+			(start -0.5334 -1.8596)
+			(end 0.5334 -1.8596)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "c5315fe5-8501-410c-a930-189af23b77c7")
+		)
+		(fp_line
+			(start 1.7526 -0.9525)
+			(end 0.5334 -0.9525)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "0a0dc460-9722-46bc-b8b4-5e9620bf7fc7")
+		)
+		(fp_line
+			(start 1.7526 -0.9525)
+			(end 1.7526 0.9525)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "762450df-ddb1-42c6-8886-c466852c082b")
+		)
+		(fp_line
+			(start 0.5334 -0.9525)
+			(end 0.5334 -1.8596)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "13187f4c-c5fa-4587-8fd0-3e40b006c5ea")
+		)
+		(fp_line
+			(start -0.5334 -0.9525)
+			(end -0.5334 -1.8596)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "459dac2a-6054-46d9-886b-1605719b9c46")
+		)
+		(fp_line
+			(start -1.7526 -0.9525)
+			(end -0.5334 -0.9525)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "77c3c6a1-8f3f-4604-907d-e6aa45c2b5f6")
+		)
+		(fp_line
+			(start 1.7526 0.9525)
+			(end 1.4859 0.9525)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "e296bd83-640b-4041-9fac-ed0332138614")
+		)
+		(fp_line
+			(start 1.4859 0.9525)
+			(end 1.4859 1.8596)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "d225fd96-d7f4-4304-8df2-0ffa11adfb49")
+		)
+		(fp_line
+			(start -1.4859 0.9525)
+			(end -1.4859 1.8596)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "b90c4fb3-39e8-48ae-b6af-b3ccf5131de2")
+		)
+		(fp_line
+			(start -1.7526 0.9525)
+			(end -1.7526 -0.9525)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "20994ba1-8201-458d-924d-63e741527f48")
+		)
+		(fp_line
+			(start -1.7526 0.9525)
+			(end -1.4859 0.9525)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "45c8a2c6-8d0b-42e6-b617-4e6fb9fbe011")
+		)
+		(fp_line
+			(start -1.4859 1.8596)
+			(end 1.4859 1.8596)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "d0fe3621-3ceb-4f19-8f93-280d2a1b3ee8")
+		)
+		(fp_line
+			(start 0.254 -1.25)
+			(end -0.254 -1.25)
+			(stroke
+				(width 0.0254)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "04a45d1d-ecdd-4d44-a1b0-ab950e9c6630")
+		)
+		(fp_line
+			(start -0.254 -1.25)
+			(end -0.254 -0.6985)
+			(stroke
+				(width 0.0254)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "db1affa0-4a78-40dd-b90d-22f23b1f8bce")
+		)
+		(fp_line
+			(start 1.4986 -0.6985)
+			(end -1.4986 -0.6985)
+			(stroke
+				(width 0.0254)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "9d51934c-748d-42d3-a1f4-2d4ad189a8a2")
+		)
+		(fp_line
+			(start 0.254 -0.6985)
+			(end 0.254 -1.25)
+			(stroke
+				(width 0.0254)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "e7c8b4e9-fd3d-4fd2-ac21-3970dfcea333")
+		)
+		(fp_line
+			(start -0.254 -0.6985)
+			(end 0.254 -0.6985)
+			(stroke
+				(width 0.0254)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "28c7d24f-e73e-49c5-907f-30726f3088d8")
+		)
+		(fp_line
+			(start -1.4986 -0.6985)
+			(end -1.4986 0.6985)
+			(stroke
+				(width 0.0254)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "2885d9cf-550d-4344-b902-2dda3e9eb260")
+		)
+		(fp_line
+			(start 1.4986 0.6985)
+			(end 1.4986 -0.6985)
+			(stroke
+				(width 0.0254)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "6cc0db4a-1e7a-4ea7-b9fd-d53894d94ef7")
+		)
+		(fp_line
+			(start 1.2065 0.6985)
+			(end 0.6985 0.6985)
+			(stroke
+				(width 0.0254)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "20c03b29-b99e-41e8-bc82-f5bed8e384d2")
+		)
+		(fp_line
+			(start 0.6985 0.6985)
+			(end 0.6985 1.25)
+			(stroke
+				(width 0.0254)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "00372f34-91dc-4a4d-ab1f-6990842f1072")
+		)
+		(fp_line
+			(start -0.6985 0.6985)
+			(end -1.2065 0.6985)
+			(stroke
+				(width 0.0254)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "4134e84e-ec74-48f2-9bb2-2edf1886de8d")
+		)
+		(fp_line
+			(start -1.2065 0.6985)
+			(end -1.2065 1.25)
+			(stroke
+				(width 0.0254)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "bf536e75-fc82-4284-a753-838bd2f6bec7")
+		)
+		(fp_line
+			(start -1.4986 0.6985)
+			(end 1.4986 0.6985)
+			(stroke
+				(width 0.0254)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "d3321bcf-71ce-4d25-9022-c18efbd9d9e5")
+		)
+		(fp_line
+			(start 1.2065 1.25)
+			(end 1.2065 0.6985)
+			(stroke
+				(width 0.0254)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "20933eac-5cba-4328-8555-7eff2487fcad")
+		)
+		(fp_line
+			(start 0.6985 1.25)
+			(end 1.2065 1.25)
+			(stroke
+				(width 0.0254)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "c9d86657-f51f-4828-87ee-df8db248f39b")
+		)
+		(fp_line
+			(start -0.6985 1.25)
+			(end -0.6985 0.6985)
+			(stroke
+				(width 0.0254)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "77522fa0-1451-4401-9c1a-2e08f04a5ddf")
+		)
+		(fp_line
+			(start -1.2065 1.25)
+			(end -0.6985 1.25)
+			(stroke
+				(width 0.0254)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "3f134bb4-62be-4adc-926d-5790aa06c270")
+		)
+		(fp_circle
+			(center -1.2446 0.4445)
+			(end -1.1176 0.4445)
+			(stroke
+				(width 0.0254)
+				(type solid)
+			)
+			(fill none)
+			(layer "F.Fab")
+			(uuid "36e5b64d-103d-4b0e-a2ed-0b6b9a5c1c7c")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "2dc972b8-8c0e-46e0-8c9a-b4538731b213")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(pad "1" smd rect
+			(at -0.9525 0.9452 90)
+			(size 0.5588 1.3208)
+			(layers "F.Cu" "F.Paste" "F.Mask")
+			(net 11 "/USART1_TX")
+			(pinfunction "1")
+			(pintype "unspecified")
+			(uuid "33316360-52f0-4fdb-97e3-66a4e1126a04")
+		)
+		(pad "2" smd rect
+			(at 0.9525 0.9452 90)
+			(size 0.5588 1.3208)
+			(layers "F.Cu" "F.Paste" "F.Mask")
+			(net 12 "/USART1_RX")
+			(pinfunction "2")
+			(pintype "unspecified")
+			(uuid "824ef52a-9ff1-413a-ac2c-ed1f3d5f22bb")
+		)
+		(pad "3" smd rect
+			(at 0 -0.84725 90)
+			(size 0.5588 1.3208)
+			(layers "F.Cu" "F.Paste" "F.Mask")
+			(net 1 "GND")
+			(pinfunction "3")
+			(pintype "unspecified")
+			(uuid "c3bc7be7-7afe-46f9-b4f6-784601c35dda")
+		)
+	)
 	(footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "4852d3f7-88e4-44e5-892d-72bf46c00f45")
@@ -5152,11 +5926,24 @@
 				)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5866bdbd-d339-4e4c-abac-706e8d8f2f5a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/18b52b94-8878-4816-a6a8-96c7c0e62038")
 		(sheetname "Stammblatt")
 		(sheetfile "CANShield.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom dnp)
 		(fp_line
 			(start -0.167621 0.38)
 			(end 0.167621 0.38)
@@ -5366,11 +6153,24 @@
 				)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "30a0631e-3f6b-4808-8ca8-a1661a66eb1b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/885ec4a0-d8de-472f-9221-658bda16c63a")
 		(sheetname "Stammblatt")
 		(sheetfile "CANShield.kicad_sch")
-		(attr smd dnp)
+		(attr smd exclude_from_bom dnp)
 		(fp_line
 			(start -0.167621 -0.38)
 			(end 0.167621 -0.38)
@@ -5580,11 +6380,24 @@
 				)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0e7e4ca0-71b0-489d-9d23-5147f022ae83")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/6da0f5b3-5f6e-4b6b-82b1-e38186125b25")
 		(sheetname "Stammblatt")
 		(sheetfile "CANShield.kicad_sch")
-		(attr smd dnp)
+		(attr smd exclude_from_bom dnp)
 		(fp_line
 			(start -0.167621 0.38)
 			(end 0.167621 0.38)
@@ -5782,6 +6595,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "4e0e96c2-cedb-44d8-b353-93358eefba69")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f5ea1a15-60a9-4afb-9938-820ba7143a3c")
 			(effects
 				(font
 					(size 1 1)
@@ -6081,6 +6907,19 @@
 				)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cc626ba2-2cb5-4275-8460-ba6cf2a52fab")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/e3c294dd-f973-4ac8-9638-f9aefc83059b")
 		(sheetname "Stammblatt")
@@ -6244,7 +7083,7 @@
 				)
 			)
 		)
-		(property "Value" "AT25SF081-XMHD-X"
+		(property "Value" "AT25DF041B-XMHNHR-T"
 			(at 0 2.45 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -6269,7 +7108,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.adestotech.com/wp-content/uploads/DS-AT25SF081_045.pdf"
+		(property "Datasheet" "https://www.renesas.com/us/en/document/dst/at25df041b-datasheet?r=1608456"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6282,7 +7121,7 @@
 				)
 			)
 		)
-		(property "Description" "8-Mbit, 2.5V Minimum SPI Serial Flash Memory with Dual-I/O and Quad-I/O Support, TSSOP-8"
+		(property "Description" "4-Mbit, 1.65 V Minimum SPI Serial Flash Memory with Dual I/O Support, TSSOP-8"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6291,6 +7130,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3d3c4575-83cc-48c4-a4c1-f178a29d387e")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -6614,6 +7466,19 @@
 				)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8e1be3b4-b1f6-415b-a689-8b546eb2cbf6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/38967258-d050-4b22-bcdd-db28c9be79a4")
 		(sheetname "Stammblatt")
@@ -6727,6 +7592,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d8babd1d-6f85-4218-a9b7-79ec3a3352fa")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -6947,11 +7825,24 @@
 				)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1c7fd616-e92e-4e84-a64f-bf9f3c5de127")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/7e7f9a3c-b0f5-4ba2-894c-c06c0d0a5c9e")
 		(sheetname "Stammblatt")
 		(sheetfile "CANShield.kicad_sch")
-		(attr smd dnp)
+		(attr smd exclude_from_bom dnp)
 		(fp_line
 			(start -0.167621 -0.38)
 			(end 0.167621 -0.38)
@@ -7155,6 +8046,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a92aab8a-ec1f-4279-9767-60c88fffa5cb")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -7609,6 +8513,19 @@
 				)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "92ebfd08-c302-4c94-848e-b339693060f2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/318431f1-b5b4-40b9-a9e9-1d988c76f44f")
 		(sheetname "Stammblatt")
@@ -7823,11 +8740,24 @@
 				)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a4531a6d-201f-4381-8a48-055ba4518a37")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/94599183-2421-4a4e-a08b-c5981466712c")
 		(sheetname "Stammblatt")
 		(sheetfile "CANShield.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom dnp)
 		(fp_line
 			(start -0.115835 0.36)
 			(end 0.115835 0.36)
@@ -8033,6 +8963,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "35c3c2c5-9b2b-4aa9-b70a-7c522e1b43b3")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -8251,6 +9194,19 @@
 				)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "66caeb92-210c-4653-8a85-c9f22d9c3bab")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/a602e685-eaf8-473f-9191-a930cfb7e28f")
 		(sheetname "Stammblatt")
@@ -8461,6 +9417,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b67a0db4-2beb-4155-8b05-78a547c1ec71")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -8681,11 +9650,24 @@
 				)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fda9e8fe-374e-468a-b0b1-260353b5d19b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/badbd5c4-9a8b-4f9b-bfca-1cd99c2fac23")
 		(sheetname "Stammblatt")
 		(sheetfile "CANShield.kicad_sch")
-		(attr smd dnp)
+		(attr smd exclude_from_bom dnp)
 		(fp_line
 			(start -0.254724 -0.5225)
 			(end 0.254724 -0.5225)
@@ -8896,6 +9878,19 @@
 				)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ced3d9db-6d00-45d6-bfa9-a7ed84a4cbe1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/5c8ef666-e293-4fd8-b038-a20acb977fbf")
 		(sheetname "Stammblatt")
@@ -9007,6 +10002,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e203ced9-f369-4154-9717-dcbd9cba2ce0")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -9226,11 +10234,24 @@
 				)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "646aaae8-d26a-4bf4-bda2-b8f4933908d7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/0e05bed4-573b-45bc-a5f6-fca470052a04")
 		(sheetname "Stammblatt")
 		(sheetfile "CANShield.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.7)
@@ -9344,11 +10365,24 @@
 				)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "016f3ea1-5dea-4c96-91b7-f58bfa49a13d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/93f784c6-32c3-4844-ae33-184e85932eec")
 		(sheetname "Stammblatt")
 		(sheetfile "CANShield.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.7)
@@ -9390,469 +10424,6 @@
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "c6acdc5a-4782-407c-88b2-f542f71f432c")
-		)
-	)
-	(footprint "PESD2CANFD27V-TR:SOT23_PESD2_NEX"
-		(layer "F.Cu")
-		(uuid "7bb5c01c-6d13-4edc-9754-2ba182371b0d")
-		(at 156.75 115 90)
-		(tags "PESD2CANFD27V-TR ")
-		(property "Reference" "CR102"
-			(at -2.6 1.5 0)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(uuid "eb4f7266-5182-4f38-9e0f-8c72c3677327")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.2)
-				)
-			)
-		)
-		(property "Value" "PESD2CANFD27V-TR"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "2bf5c6d1-832f-4c2f-9436-5f3ce79e9163")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" "PESD2CANFD27V-TR:SOT23_PESD2_NEX"
-			(at 0 0 90)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "aa3ab367-1235-4953-bce7-1f74cfce6bfa")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" "PESD2CANFD27V-TR"
-			(at 0 0 90)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "38fc6755-e258-47bf-bc02-dae0dd04a33c")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 0 0 90)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "8a4897a7-3490-4d9b-98d0-e81769883737")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property ki_fp_filters "SOT23_PESD2_NEX SOT23_PESD2_NEX-M SOT23_PESD2_NEX-L")
-		(path "/022f8ae9-d627-4257-9fdf-126801cb82a2")
-		(sheetname "Stammblatt")
-		(sheetfile "CANShield.kicad_sch")
-		(attr smd)
-		(fp_line
-			(start 1.6256 -0.8255)
-			(end 0.59944 -0.8255)
-			(stroke
-				(width 0.1524)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "149f20e4-4b88-41e7-adbc-6a1ecd991077")
-		)
-		(fp_line
-			(start -0.59944 -0.8255)
-			(end -1.6256 -0.8255)
-			(stroke
-				(width 0.1524)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "53df2e81-0f00-4a31-ba69-876998b6030c")
-		)
-		(fp_line
-			(start -1.6256 -0.8255)
-			(end -1.6256 0.8255)
-			(stroke
-				(width 0.1524)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "a7e572ae-9866-4430-9411-e3265558c5c0")
-		)
-		(fp_line
-			(start 1.6256 0.8255)
-			(end 1.6256 -0.8255)
-			(stroke
-				(width 0.1524)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "4f03abc5-318f-4b63-8f11-8a461c7711b7")
-		)
-		(fp_line
-			(start -0.350561 0.8255)
-			(end 0.350561 0.8255)
-			(stroke
-				(width 0.1524)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "21b51050-3b77-4794-9b23-abdb27afa02a")
-		)
-		(fp_circle
-			(center -0.95 2.3622)
-			(end -0.8738 2.3622)
-			(stroke
-				(width 0.1524)
-				(type solid)
-			)
-			(fill none)
-			(layer "F.SilkS")
-			(uuid "f2aa78af-e15c-4bc4-98a0-e5be10e2c201")
-		)
-		(fp_line
-			(start -0.4953 -1.8542)
-			(end 0.4953 -1.8542)
-			(stroke
-				(width 0.1524)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "43c01b79-9b77-4b1c-ab87-b93667594e0b")
-		)
-		(fp_line
-			(start 1.7526 -0.9525)
-			(end 0.4953 -0.9525)
-			(stroke
-				(width 0.1524)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "e9d5eaba-a8a0-493e-a825-40bf525f1e71")
-		)
-		(fp_line
-			(start 1.7526 -0.9525)
-			(end 1.7526 0.9525)
-			(stroke
-				(width 0.1524)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "fc383dab-033f-4e05-b234-584814a3fe15")
-		)
-		(fp_line
-			(start 0.4953 -0.9525)
-			(end 0.4953 -1.8542)
-			(stroke
-				(width 0.1524)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "9b0d6d96-9559-4de1-90e3-0f134ecb43d0")
-		)
-		(fp_line
-			(start -0.4953 -0.9525)
-			(end -0.4953 -1.8542)
-			(stroke
-				(width 0.1524)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "4a40bf62-0c69-4d4e-806f-0ba7e5ac7225")
-		)
-		(fp_line
-			(start -1.7526 -0.9525)
-			(end -0.4953 -0.9525)
-			(stroke
-				(width 0.1524)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "5879ecda-d653-406b-943e-a242676133d0")
-		)
-		(fp_line
-			(start 1.7526 0.9525)
-			(end 1.4453 0.9525)
-			(stroke
-				(width 0.1524)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "4c0f186f-c292-455c-a394-dd77952f0594")
-		)
-		(fp_line
-			(start 1.4453 0.9525)
-			(end 1.4453 1.8542)
-			(stroke
-				(width 0.1524)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "e809a68c-751d-401b-8378-ee16490b4036")
-		)
-		(fp_line
-			(start -1.4453 0.9525)
-			(end -1.4453 1.8542)
-			(stroke
-				(width 0.1524)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "426e5846-0387-4895-b375-cbb0c0f36592")
-		)
-		(fp_line
-			(start -1.7526 0.9525)
-			(end -1.7526 -0.9525)
-			(stroke
-				(width 0.1524)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "ae612862-27c0-4a68-b6a8-841809e7ad6c")
-		)
-		(fp_line
-			(start -1.7526 0.9525)
-			(end -1.4453 0.9525)
-			(stroke
-				(width 0.1524)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "92e9144a-8e78-493b-aa79-ffe760947d63")
-		)
-		(fp_line
-			(start -1.4453 1.8542)
-			(end 1.4453 1.8542)
-			(stroke
-				(width 0.1524)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "301ffc77-5abe-4a00-bbb9-a5bef4874a4f")
-		)
-		(fp_line
-			(start 0.2413 -1.2446)
-			(end -0.2413 -1.2446)
-			(stroke
-				(width 0.0254)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "d83ca0d2-c89e-473f-90d8-2af6744c447b")
-		)
-		(fp_line
-			(start -0.2413 -1.2446)
-			(end -0.2413 -0.6985)
-			(stroke
-				(width 0.0254)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "b740f635-b5b8-468e-9064-a682cedc1a68")
-		)
-		(fp_line
-			(start 1.4986 -0.6985)
-			(end -1.4986 -0.6985)
-			(stroke
-				(width 0.0254)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "bb748787-a56d-46ad-a462-6b532cadfd8e")
-		)
-		(fp_line
-			(start 0.2413 -0.6985)
-			(end 0.2413 -1.2446)
-			(stroke
-				(width 0.0254)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "811b3a23-8c23-4b57-a186-f94eb476e72e")
-		)
-		(fp_line
-			(start -0.2413 -0.6985)
-			(end 0.2413 -0.6985)
-			(stroke
-				(width 0.0254)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "e8c9a1ef-fb81-46f2-bd5e-144ec02225e4")
-		)
-		(fp_line
-			(start -1.4986 -0.6985)
-			(end -1.4986 0.6985)
-			(stroke
-				(width 0.0254)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "538ade5e-204b-4c49-a71c-15fa95857563")
-		)
-		(fp_line
-			(start 1.4986 0.6985)
-			(end 1.4986 -0.6985)
-			(stroke
-				(width 0.0254)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "efd56ce8-7525-41d0-9429-a50546f5dd1e")
-		)
-		(fp_line
-			(start 1.1913 0.6985)
-			(end 0.7087 0.6985)
-			(stroke
-				(width 0.0254)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "79a95c2f-e435-4718-bcb9-bf58d17570e8")
-		)
-		(fp_line
-			(start 0.7087 0.6985)
-			(end 0.7087 1.2446)
-			(stroke
-				(width 0.0254)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "10657030-1994-43ce-aad3-6c265d4f603f")
-		)
-		(fp_line
-			(start -0.7087 0.6985)
-			(end -1.1913 0.6985)
-			(stroke
-				(width 0.0254)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "28843a6b-fed4-45af-8ff6-a4fc55265fea")
-		)
-		(fp_line
-			(start -1.1913 0.6985)
-			(end -1.1913 1.2446)
-			(stroke
-				(width 0.0254)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "9409b4b4-3c0c-4bd3-a141-d66d3d61eb55")
-		)
-		(fp_line
-			(start -1.4986 0.6985)
-			(end 1.4986 0.6985)
-			(stroke
-				(width 0.0254)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "72f709ed-e27f-4527-a782-ce2b70bdff44")
-		)
-		(fp_line
-			(start 1.1913 1.2446)
-			(end 1.1913 0.6985)
-			(stroke
-				(width 0.0254)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "265c8a56-b3ee-46e5-b82a-c70bc133d242")
-		)
-		(fp_line
-			(start 0.7087 1.2446)
-			(end 1.1913 1.2446)
-			(stroke
-				(width 0.0254)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "af442e52-5a5d-40f7-b330-2ff32912e3e4")
-		)
-		(fp_line
-			(start -0.7087 1.2446)
-			(end -0.7087 0.6985)
-			(stroke
-				(width 0.0254)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "70c4a38b-89f3-4ae0-a7d8-8a11906a61f6")
-		)
-		(fp_line
-			(start -1.1913 1.2446)
-			(end -0.7087 1.2446)
-			(stroke
-				(width 0.0254)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "adac0335-d557-451c-a28e-d9f41ea0307e")
-		)
-		(fp_circle
-			(center -0.95 0.4445)
-			(end -0.8738 0.4445)
-			(stroke
-				(width 0.0254)
-				(type solid)
-			)
-			(fill none)
-			(layer "F.Fab")
-			(uuid "9665682a-c40b-4559-9ea2-dea765abdd72")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(uuid "64fae226-fb25-4dd1-8e0d-2bac3a11349b")
-			(effects
-				(font
-					(size 0.25 0.25)
-					(thickness 0.15)
-				)
-			)
-		)
-		(pad "1" smd rect
-			(at -0.950001 1.016 90)
-			(size 0.5334 1.1684)
-			(layers "F.Cu" "F.Paste" "F.Mask")
-			(net 11 "/USART1_TX")
-			(pinfunction "1")
-			(pintype "unspecified")
-			(uuid "5f04af4f-fc65-4c41-a8e6-9ba37567329e")
-		)
-		(pad "2" smd rect
-			(at 0.950001 1.016 90)
-			(size 0.5334 1.1684)
-			(layers "F.Cu" "F.Paste" "F.Mask")
-			(net 12 "/USART1_RX")
-			(pinfunction "2")
-			(pintype "unspecified")
-			(uuid "a9c8bc46-a1f3-4706-a315-94c5f646ce9d")
-		)
-		(pad "3" smd rect
-			(at 0 -1.016 90)
-			(size 0.5334 1.1684)
-			(layers "F.Cu" "F.Paste" "F.Mask")
-			(net 1 "GND")
-			(pinfunction "3")
-			(pintype "unspecified")
-			(uuid "4376ab3d-1fb9-4acf-8caf-a5e0adb4cbc3")
 		)
 	)
 	(footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
@@ -9919,6 +10490,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4c9bab2f-96f9-4255-9782-36b3cf075dd9")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -10137,6 +10721,19 @@
 				)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f54dfdad-d6c0-4410-8f38-4c931916f899")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/012b72c0-3474-427f-aa15-34137f1f3a99")
 		(sheetname "Stammblatt")
@@ -10351,11 +10948,24 @@
 				)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2f57ab4b-35ef-4abc-82be-2c1f7f9bc760")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/6b4ffb78-4406-4994-9b82-ea1a2b405183")
 		(sheetname "Stammblatt")
 		(sheetfile "CANShield.kicad_sch")
-		(attr smd dnp)
+		(attr smd exclude_from_bom dnp)
 		(fp_line
 			(start -0.167621 0.38)
 			(end 0.167621 0.38)
@@ -10561,6 +11171,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "632cebf3-be68-47f9-a04d-da01b46c541b")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -11068,11 +11691,24 @@
 				)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2947294c-7929-4fd5-b2fb-96671925a2e6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/7bed34eb-ddd1-4c0a-b900-ea139e1b1340")
 		(sheetname "Stammblatt")
 		(sheetfile "CANShield.kicad_sch")
-		(attr smd dnp)
+		(attr smd exclude_from_bom dnp)
 		(fp_line
 			(start -0.167621 -0.38)
 			(end 0.167621 -0.38)
@@ -11278,6 +11914,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ea7a2fe5-6b2d-4633-af4a-6a84915f7b99")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -11498,6 +12147,19 @@
 				)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4ac4b31f-2a6c-43b4-97ef-67eb5c6046a2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/438b497e-7380-4f94-a643-2feb26f4860a")
 		(sheetname "Stammblatt")
@@ -11708,6 +12370,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5cebd0e8-4581-4194-ab01-c8f785739df1")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -11980,6 +12655,19 @@
 				)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bdc14634-0b25-4882-a532-931177aa69b1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/8049e961-abfb-4a83-9fdc-4f34934d0605")
 		(sheetname "Stammblatt")
@@ -12190,6 +12878,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "20cc0b6c-b070-4728-8324-f20503754f34")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -12410,6 +13111,19 @@
 				)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bae08865-1490-4d3a-b55a-bd699309855f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/b05665a5-cc7e-478b-bcf6-3a10cfb44bc2")
 		(sheetname "Stammblatt")
@@ -12624,6 +13338,19 @@
 				)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "80e23d95-8025-439b-83f3-d9427546428a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/1e9752d0-31f0-4043-bb25-79530296c87a")
 		(sheetname "Stammblatt")
@@ -12770,6 +13497,232 @@
 			)
 		)
 	)
+	(footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+		(layer "F.Cu")
+		(uuid "a2f7365f-fe3b-4b71-9bab-c2dffca845b5")
+		(at 161.8525 101.6)
+		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
+		(tags "resistor handsolder")
+		(property "Reference" "R127"
+			(at 0 -1.17 0)
+			(layer "F.SilkS")
+			(uuid "b50f981b-4e1a-433d-b0ee-449ad926ad74")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "100k"
+			(at 0 1.17 0)
+			(layer "F.Fab")
+			(uuid "efe1baea-053d-4627-95d7-3cfc12fa89e1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7bb390e1-0bc9-4154-b190-64962bab24af")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6908f25b-fd02-40b9-b1c8-50180ed9f44b")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "21c8bba3-d080-408f-8dac-7cbad9515791")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3af33a1a-f658-4bfd-84b5-029200db536a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "R_*")
+		(path "/8a994173-0dfa-48cc-ad4e-fce7a86de75d")
+		(sheetname "Stammblatt")
+		(sheetfile "CANShield.kicad_sch")
+		(attr smd exclude_from_bom dnp)
+		(fp_line
+			(start -0.167621 -0.38)
+			(end 0.167621 -0.38)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "099a8929-d62a-43a4-a838-755d74c548bd")
+		)
+		(fp_line
+			(start -0.167621 0.38)
+			(end 0.167621 0.38)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "65a757c2-ddfe-4499-a912-9ece0452789a")
+		)
+		(fp_line
+			(start -1.1 -0.47)
+			(end 1.1 -0.47)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "6f05a5ac-57e7-43f1-a8b0-cc219aebdf05")
+		)
+		(fp_line
+			(start -1.1 0.47)
+			(end -1.1 -0.47)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "d0b233c4-a138-4bcc-9922-303163002822")
+		)
+		(fp_line
+			(start 1.1 -0.47)
+			(end 1.1 0.47)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "03ee61d9-5b68-4e32-9d03-70ed79912684")
+		)
+		(fp_line
+			(start 1.1 0.47)
+			(end -1.1 0.47)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "8947c914-28a4-429b-8b81-a360d93c958c")
+		)
+		(fp_line
+			(start -0.525 -0.27)
+			(end 0.525 -0.27)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "c4e8efd3-71f8-4a4f-bdb8-8c9c6665b1c4")
+		)
+		(fp_line
+			(start -0.525 0.27)
+			(end -0.525 -0.27)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "6cfe5e79-e8c1-4191-92e8-6e22bcc5ee46")
+		)
+		(fp_line
+			(start 0.525 -0.27)
+			(end 0.525 0.27)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "b8237304-ff58-48c5-88e4-1dc69e89930b")
+		)
+		(fp_line
+			(start 0.525 0.27)
+			(end -0.525 0.27)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "03f4a9b2-b282-4c46-8f74-a0e0ccf78d40")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "ab08c6b2-a5e4-4b05-9f0e-8cca3e325d2d")
+			(effects
+				(font
+					(size 0.26 0.26)
+					(thickness 0.04)
+				)
+			)
+		)
+		(pad "1" smd roundrect
+			(at -0.5975 0)
+			(size 0.715 0.64)
+			(layers "F.Cu" "F.Paste" "F.Mask")
+			(roundrect_rratio 0.25)
+			(net 2 "+3V3")
+			(pintype "passive")
+			(uuid "4bcb6646-cfb0-4e2a-b1f7-bf477d12c95c")
+		)
+		(pad "2" smd roundrect
+			(at 0.5975 0)
+			(size 0.715 0.64)
+			(layers "F.Cu" "F.Paste" "F.Mask")
+			(roundrect_rratio 0.25)
+			(net 57 "/~{WP}")
+			(pintype "passive")
+			(uuid "accd7977-d823-4a0d-a490-c0aa60bf6012")
+		)
+		(model "${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+	)
 	(footprint "Package_SO:TSOP-6_1.65x3.05mm_P0.95mm"
 		(layer "F.Cu")
 		(uuid "a556df04-c7e4-4969-aaf2-3d1992fcb515")
@@ -12787,7 +13740,7 @@
 				)
 			)
 		)
-		(property "Value" "BD2222G"
+		(property "Value" "BD22441G-C"
 			(at 0 2.5 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -12812,7 +13765,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://fscdn.rohm.com/en/products/databook/datasheet/ic/power/power_switch/bd2242g-e.pdf"
+		(property "Datasheet" "https://fscdn.rohm.com/en/products/databook/datasheet/ic/power/power_switch/bd22441g-c-e.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12834,6 +13787,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "C5576416"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "db3ef120-c75d-4114-b5a5-11856112bf96")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -13110,11 +14076,24 @@
 				)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2780a34c-a953-414e-bd6d-c387dc6a224b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/5487cfce-1124-407a-80a0-944e60487a94")
 		(sheetname "Stammblatt")
 		(sheetfile "CANShield.kicad_sch")
-		(attr smd dnp)
+		(attr smd exclude_from_bom dnp)
 		(fp_line
 			(start -0.115835 -0.36)
 			(end 0.115835 -0.36)
@@ -13312,6 +14291,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c2ac5341-e29f-439e-9cdc-dd46b44ca7b8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "62f315b7-3261-4f9c-8d67-b86d570e378f")
 			(effects
 				(font
 					(size 1 1)
@@ -13611,6 +14603,19 @@
 				)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c4dd1c69-4c90-4e0e-a10f-3b285be544c6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
 		(path "/625e3eea-3cda-469f-9940-c3d031e57764")
 		(sheetname "Stammblatt")
@@ -13827,6 +14832,19 @@
 				)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8465b609-5bad-4819-b8eb-5ed77c0bc1ef")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
 		(path "/c60380ee-28ee-4b96-8a43-32f4328eebe3")
 		(sheetname "Stammblatt")
@@ -14039,6 +15057,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fc5dd6bb-1ad4-442a-8279-4329b33d6fa1")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -14280,11 +15311,24 @@
 				)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d9954282-422b-4398-bf66-f73bfe3e04c9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/f392fd5b-4491-4ab4-8e37-83a6eb542e14")
 		(sheetname "Stammblatt")
 		(sheetfile "CANShield.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.7)
@@ -14393,6 +15437,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "10cfaa9a-3293-4ea4-935b-0de5b697fe4c")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -14509,6 +15566,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6ba98344-2491-463b-ac1d-175b7b4cea6b")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -14728,6 +15798,19 @@
 				)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "722013a3-b01d-4a79-8d36-3f07ed3da458")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/86bbc361-5480-47c2-918e-dc0723c9bf82")
 		(sheetname "Stammblatt")
@@ -14843,11 +15926,24 @@
 				)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ac8c7fbd-cc9f-4273-b13b-397b96568fa2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/e9e5f699-1b84-4e42-bea2-7b026b2765e2")
 		(sheetname "Stammblatt")
 		(sheetfile "CANShield.kicad_sch")
-		(attr smd dnp)
+		(attr smd exclude_from_bom dnp)
 		(fp_line
 			(start -0.254724 0.5225)
 			(end 0.254724 0.5225)
@@ -15051,6 +16147,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "53a53c8d-90e0-4632-a22f-a67e98704ad0")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -15520,6 +16629,19 @@
 				)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e3ac6ddc-5310-4317-9749-56fe4881ba8a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/01ab9f30-0629-4055-a26b-4f4f9a981ac9")
 		(sheetname "Stammblatt")
@@ -15734,6 +16856,19 @@
 				)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c6f136c1-24e7-404f-b417-a258ea32c20b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/05fd7bc3-7a53-48dc-be68-02ca66d86f4d")
 		(sheetname "Stammblatt")
@@ -15944,6 +17079,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b01ddb4a-3d9a-4a8e-af61-33a2099f77b4")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -16769,11 +17917,24 @@
 				)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c6110dfb-0341-420a-9929-79c82c3f0f70")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/9a280901-a5cc-4f1d-8399-2e813322b3d1")
 		(sheetname "Stammblatt")
 		(sheetfile "CANShield.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.7)
@@ -16883,6 +18044,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c0ee480d-6e29-4092-a4b7-a0460bf17e71")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -17002,11 +18176,24 @@
 				)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1968361d-c906-49d7-858f-46a3e544bbf3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/a2d914ad-4d70-46f2-b914-385416fdc688")
 		(sheetname "Stammblatt")
 		(sheetfile "CANShield.kicad_sch")
-		(attr smd dnp)
+		(attr smd exclude_from_bom dnp)
 		(fp_line
 			(start -0.167621 -0.38)
 			(end 0.167621 -0.38)
@@ -17217,6 +18404,19 @@
 				)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d4588098-8208-4e31-bce3-f8247a491222")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/e20d0068-961a-49f2-88bc-994c6c657b2d")
 		(sheetname "Stammblatt")
@@ -17334,11 +18534,24 @@
 				)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f2768261-526e-440b-a558-f88bf0e03e67")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/21cc2a1a-5632-4ccd-8e17-7b4310eb5380")
 		(sheetname "Stammblatt")
 		(sheetfile "CANShield.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.7)
@@ -17451,11 +18664,24 @@
 				)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "112645c8-2c91-4bed-b504-068fb84fe133")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/8ed60404-4826-4bdc-b8eb-d19128617b3c")
 		(sheetname "Stammblatt")
 		(sheetfile "CANShield.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.7)
@@ -17568,11 +18794,24 @@
 				)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "627ebfa2-6a3a-4be3-a878-817c2867f6dd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/d654a115-699a-4694-aac7-61fcf78e93b9")
 		(sheetname "Stammblatt")
 		(sheetfile "CANShield.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom dnp)
 		(fp_line
 			(start -0.115835 0.36)
 			(end 0.115835 0.36)
@@ -17778,6 +19017,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5872ce0a-c1a4-4c72-81e8-c9fdcd72f8a7")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -17997,11 +19249,24 @@
 				)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5ffbcb2c-7d34-4e97-9954-fc05e01108c0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/3ed91d9d-e858-4532-b173-486f2213c5b4")
 		(sheetname "Stammblatt")
 		(sheetfile "CANShield.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.7)
@@ -18110,6 +19375,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "66bdaa92-cbf1-4097-9a02-397e86401971")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -18383,6 +19661,19 @@
 				)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "94b4068a-1f4a-4fd6-816f-afd54a56088f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Fiducial*")
 		(path "/a709b85e-d85a-43b3-9bb0-6ff4ba5193a6")
 		(sheetname "Stammblatt")
@@ -18448,7 +19739,7 @@
 				)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "340"
 			(at 0 1.17 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -18495,6 +19786,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "aaebb0bc-1cae-498a-846e-e95e0862c0d3")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -18651,7 +19955,7 @@
 		(at 144.65 113.3)
 		(descr "SMD pad as test Point, diameter 1.0mm")
 		(tags "test point SMD pad")
-		(property "Reference" "~{PRB_EN}"
+		(property "Reference" "TP112"
 			(at -2.4 -1.6 0)
 			(layer "F.SilkS")
 			(uuid "be27e309-c213-4ccc-bb80-1585b857d535")
@@ -18713,11 +20017,24 @@
 				)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d1f59789-0d62-41dd-b0b0-a49a6ac4b39e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/922f6f7d-78d7-4b4f-b497-d980b83eb5c1")
 		(sheetname "Stammblatt")
 		(sheetfile "CANShield.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.7)
@@ -18830,11 +20147,24 @@
 				)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1e52cab2-748c-4c29-a4cf-099d1f7d62a2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/163a4102-4c52-46c4-95b9-b9e2c6b9a28c")
 		(sheetname "Stammblatt")
 		(sheetfile "CANShield.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom dnp)
 		(fp_line
 			(start -0.115835 -0.36)
 			(end 0.115835 -0.36)
@@ -19040,6 +20370,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "abf417f9-1d51-4123-8ff6-c632c94935e7")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -19254,6 +20597,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e5628206-4794-4776-bc55-ce19c2e50487")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -21944,11 +23300,24 @@
 				)
 			)
 		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b1d4aaaf-b121-4afb-8d43-3b78197c9f2d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/9a1d6c18-3da3-4792-91ab-2408c6636822")
 		(sheetname "Stammblatt")
 		(sheetfile "CANShield.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.7)
@@ -22061,6 +23430,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "404ff67d-4410-4de1-818e-c047ae964784")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -22751,6 +24134,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "JLCPCB Part # (optional)" "${ITEM_NUMBER}"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "6f7a3527-0966-4eee-86d4-dea679be3cdd")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -25280,6 +26677,14 @@
 		(uuid "5471f19b-92e6-4361-a594-ea6fe89a9087")
 	)
 	(segment
+		(start 161.25 102.5)
+		(end 161.25 101.5025)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 2)
+		(uuid "606ed9a4-7578-4d2b-a86d-b3c41a947e7f")
+	)
+	(segment
 		(start 158.345 106.9)
 		(end 158.35 106.895)
 		(width 0.2)
@@ -25368,6 +26773,14 @@
 		(uuid "ec9da562-debc-4a83-8f95-7b1c1197b71f")
 	)
 	(segment
+		(start 161.25 101.5025)
+		(end 161.2525 101.5)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 2)
+		(uuid "f05444b3-8d60-44a2-9bbf-d198e3749d13")
+	)
+	(segment
 		(start 157.55 106.9)
 		(end 158.345 106.9)
 		(width 0.2)
@@ -25406,6 +26819,14 @@
 		(layers "F.Cu" "B.Cu")
 		(net 2)
 		(uuid "571e86fb-d358-47e3-a84e-181c3f476ea1")
+	)
+	(via
+		(at 161.25 102.5)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(net 2)
+		(uuid "67de4082-8fec-429b-bbfc-8d072244cfd2")
 	)
 	(via
 		(at 109.55 102.7)
@@ -27886,6 +29307,14 @@
 		(uuid "22f6f998-990b-4485-b12f-e815188ed556")
 	)
 	(segment
+		(start 164.42 101.6)
+		(end 164.46 101.64)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 57)
+		(uuid "2c90ae4e-c14c-4d56-89db-93740afdb5f5")
+	)
+	(segment
 		(start 160.975 105.6625)
 		(end 160.975 104.675)
 		(width 0.2)
@@ -27940,6 +29369,14 @@
 		(layer "F.Cu")
 		(net 57)
 		(uuid "6456fd6d-2dc5-44b0-894f-a4faf7944e6a")
+	)
+	(segment
+		(start 162.45 101.6)
+		(end 164.42 101.6)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 57)
+		(uuid "7146e4ba-9404-4f84-b6f8-2db7369a3c8b")
 	)
 	(segment
 		(start 160.975 107.059314)
